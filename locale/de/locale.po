@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: \n"
+"Last-Translator: Raphael Thiele using DeepL (Free Version) \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgid "plugin.generic.disco.page.title"
 msgstr "Beschreibung der OJS-Discoverability-Companion-Badges"
 
 msgid "plugin.generic.disco.page.description"
-msgstr "<p>Die Badges sind ein integraler Bestandteil des OJS Discoverability Companion (DISCO-Plugin).</p><p>Der Discoverability Companion (DISCO) ist ein Plugin, das Herausgebern wissenschaftlicher Zeitschriften dabei helfen soll, die Sichtbarkeit und Glaubwürdigkeit ihrer Zeitschriften zu verbessern, indem es sie durch die technischen und redaktionellen Kriterien führt, die von den großen Indexdatenbanken gefordert werden. Es fasst diese Anforderungen – die oft ähnlich sind, aber plattformübergreifend unterschiedlich beschrieben werden – in einer übersichtlichen, benutzerfreundlichen Oberfläche zusammen. Durch die Klärung der Terminologie und die Darstellung sich überschneidender Standards verringert DISCO die Komplexität der Einhaltung von " "-Standards und unterstützt bessere Indizierungsergebnisse.</p><p>Ein wesentliches Merkmal des Plugins ist eine Reihe von Badges, die in der Fußzeile der Website erscheinen. Diese Badges signalisieren Lesern und Gutachtern, dass die Zeitschrift anerkannte Standards hinsichtlich Qualität, Transparenz und Offenheit erfüllt.</p>"
+msgstr "<p>Die Badges sind ein integraler Bestandteil des OJS Discoverability Companion (DISCO-Plugin).</p><p>Der Discoverability Companion (DISCO) ist ein Plugin, das Herausgeber*innen wissenschaftlicher Zeitschriften dabei helfen soll, die Sichtbarkeit und Glaubwürdigkeit ihrer Zeitschriften zu verbessern, indem es sie durch die technischen und redaktionellen Kriterien führt, die von den großen Indexdatenbanken gefordert werden. Es fasst diese Anforderungen – die oft ähnlich sind, aber plattformübergreifend unterschiedlich beschrieben werden – in einer übersichtlichen, benutzerfreundlichen Oberfläche zusammen. Durch die Klärung der Terminologie und die Darstellung sich überschneidender Standards verringert DISCO die Komplexität der Einhaltung von Standards und unterstützt bessere Indizierungsergebnisse.</p><p>Ein wesentliches Merkmal des Plugins ist eine Reihe von Badges, die in der Fußzeile der Website erscheinen. Diese Badges signalisieren Leser*innen und Gutachter*innen, dass die Zeitschrift anerkannte Standards hinsichtlich Qualität, Transparenz und Offenheit erfüllt.</p>"
 
 msgid "plugin.generic.disco.page.description.footer"
 msgstr "Wenn Sie das DISCO-Plugin für Ihre Zeitschrift nutzen möchten, können Sie es von <a href=\"https://github.com/academic-journals-cz/disco\" title=\"GitHub-Repository Disco-Plugin\" target=\"_blank\">GitHub</a> herunterladen oder sich an Ihren Plattform-Manager wenden."
@@ -40,68 +40,68 @@ msgid "plugins.generic.disco.settings"
 msgstr "Einstellungen in OJS"
 
 msgid "plugins.generic.disco.settings.about"
-msgstr "Zeitschriftseinstellungen -> Impressum -> Beschreibung -> Über die Zeitschrift"
+msgstr "Zeitschriftseinstellungen -> Impressum -> Beschreibung -> Über uns"
 
 msgid "plugins.generic.disco.settings.journalTitle"
-msgstr "Zeitschriftseinstellungen → Impressum → Identität der Zeitschrift → Titel der Zeitschrift"
+msgstr "Zeitschriftseinstellungen → Impressum → Zeitschriftenidentität → Titel der Zeitschrift"
 
 msgid "plugins.generic.disco.settings.eIssn"
-msgstr "Zeitschrifteneinstellungen -> Impressum -> Veröffentlichungsdetails -> Online-ISSN"
+msgstr "Zeitschrifteneinstellungen -> Impressum -> Veröffentlichungsdetails -> ISSN Internet"
 
 msgid "plugins.generic.disco.settings.enabled"
-msgstr "Verwaltung -> Gehostete Zeitschriften -> [Zeitschrift] -> Aktivieren"
+msgstr "Administration -> Gehostete Zeitschriften -> [Zeitschrift] -> Aktivieren"
 
 msgid "plugins.generic.disco.settings.ccLicense"
-msgstr "Verteilungseinstellungen -> Lizenz -> Lizenz"
+msgstr "Vertrieb -> Lizenz -> Lizenz"
 
 msgid "plugins.generic.disco.settings.ccLicence"
-msgstr "Verteilungseinstellungen->Lizenz->Lizenz"
+msgstr "Vertrieb->Lizenz->Lizenz"
 
 msgid "plugins.generic.disco.settings.authorGuidelines"
-msgstr "Workflow-Einstellungen->Einreichung->Richtlinien für Autoren"
+msgstr "Workflow-Einstellungen->Einreichung->Richtlinien für Autor*innen"
 
 msgid "plugins.generic.disco.settings.editorialHistory"
-msgstr "Zeitschriftseinstellungen -> Impressum -> Redaktionelles Impressum"
+msgstr "Zeitschriftseinstellungen -> Impressum -> Redaktionelles"
 
 msgid "plugins.generic.disco.settings.contact"
 msgstr "Zeitschriftseinstellungen -> Kontakt"
 
 msgid "plugins.generic.disco.settings.publisher"
-msgstr "Zeitschrifteneinstellungen -> Impressum -> Angaben zum Herausgeber"
+msgstr "Zeitschrifteneinstellungen -> Impressum -> Veröffentlichungsdetails"
 
 msgid "plugins.generic.disco.settings.ethics"
 msgstr "Am besten richten Sie die Seite für Veröffentlichungsethik ein, indem Sie die Option <strong>Benutzerdefinierte Seite</strong> über <strong>Element hinzufügen</strong> unter <strong>Website-Einstellungen->Einrichtung->Navigation</strong> verwenden. Dort können Sie eine neue Seite mit einer bestimmten URL erstellen."
 
 msgid "plugins.generic.disco.settings.oai"
-msgstr "Verteilungseinstellungen->Zugriff->OAI aktivieren"
+msgstr "Vertrieb->Zugriff->OAI aktivieren"
 
 msgid "plugins.generic.disco.settings.pluginDOI"
-msgstr "Website-Einstellungen->Plugins->Plugins für öffentliche Identifikatoren->DOI"
+msgstr "Website-Einstellungen->Plugins->Import/Export-Plugins>DOI"
 
 msgid "plugins.generic.disco.settings.pluginDC"
-msgstr "Website-Einstellungen -> Plugins -> Allgemeine Plugins -> Dublin-Core-Indizierungs-Plugin"
+msgstr "Website-Einstellungen -> Plugins -> Generische Plugins -> Dublin-Core-Plugin"
 
 msgid "plugins.generic.disco.settings.pluginGS"
-msgstr "Website-Einstellungen → Plugins → Allgemeine Plugins → Google Scholar-Indizierungs-Plugin"
+msgstr "Website-Einstellungen → Plugins → Generische Plugins → Google-Scholar-Plugin"
 
 msgid "plugins.generic.disco.settings.pluginOpenAIRE"
-msgstr "Website-Einstellungen → Plugins → Allgemeine Plugins → OpenAIRE-Standard"
+msgstr "Website-Einstellungen → Plugins → Generische Plugins → OpenAIRE-Standard"
 
 msgid "plugins.generic.disco.settings.plagiarism"
-msgstr "Website-Einstellungen → Plugins → Allgemeine Plugins → iThenticate-Plagiatserkennungs-Plugin"
+msgstr "Website-Einstellungen → Plugins → Generische Plugins → iThenticate-Plagiatserkennungs-Plugin"
 
 msgid "plugins.generic.disco.settings.siteAccess"
 msgstr "Optionen für den Zugriff auf die Website -> Optionen für den Zugriff auf die Website und die Anzeige von Artikelinhalten"
 
 msgid "plugins.generic.disco.settings.copyrightNote"
-msgstr "Workflow-Einstellungen -> Einreichung -> Richtlinien für Autoren -> Urheberrechtshinweis"
+msgstr "Workflow-Einstellungen -> Einreichung -> Richtlinien für Autor*innen -> Urheberrechtshinweis"
 
 
 msgid "plugins.generic.disco.settings.publishingMode"
-msgstr "Verteilungseinstellungen -> Zugriff -> Veröffentlichungsmodus"
+msgstr "Vertrieb -> Zugriff -> Veröffentlichungsmodus"
 
 msgid "plugins.generic.disco.settings.copyrightHolder"
-msgstr "Verbreitungseinstellungen -> Lizenz -> Urheberrechtsinhaber"
+msgstr "Vertrieb -> Lizenz -> Urheberrechtsinhaber"
 
 msgid "plugins.generic.disco.disco"
 msgstr "Discoverability companion"
@@ -132,13 +132,13 @@ msgid "plugins.generic.disco.diamond.noCharges"
 msgstr "Keine Gebühren" 
 
 msgid "plugins.generic.disco.diamond.noCharges.description"
-msgstr "Die Veröffentlichung in der Zeitschrift ist nicht an die Zahlung von Gebühren jeglicher Art (z. B. Artikelbearbeitungsgebühren oder Mitgliedsbeiträge) gebunden. Die Zeitschrift sollte dies auf ihrer Webseite entsprechend angeben. Freiwillige Autorenbeiträge und Spenden sind zulässig, sofern dies keine Voraussetzung für die Veröffentlichung ist.<p>Redalyc: Die Zeitschrift darf weder von Autoren noch von Institutionen Gebühren für die Begutachtung oder Bearbeitung von Artikeln erheben.</p>" 
+msgstr "Die Veröffentlichung in der Zeitschrift ist nicht an die Zahlung von Gebühren jeglicher Art (z. B. Artikelbearbeitungsgebühren oder Mitgliedsbeiträge) gebunden. Die Zeitschrift sollte dies auf ihrer Webseite entsprechend angeben. Freiwillige Autor*innenbeiträge und Spenden sind zulässig, sofern dies keine Voraussetzung für die Veröffentlichung ist.<p>Redalyc: Die Zeitschrift darf weder von Autor*innen noch von Institutionen Gebühren für die Begutachtung oder Bearbeitung von Artikeln erheben.</p>" 
 
 msgid "plugins.generic.disco.diamond.openAuthorship"
-msgstr "Für alle Autoren zugänglich" 
+msgstr "Für alle Autor*innen zugänglich" 
 
 msgid "plugins.generic.disco.diamond.openAuthorship.description"
-msgstr "<p>Die Autorschaft in der Zeitschrift sollte nicht auf eine bestimmte Art von Zugehörigkeit beschränkt sein. Jeder Autor kann einen Artikel einreichen, der den Zielen und dem Themenbereich der Zeitschrift entspricht.</p>" 
+msgstr "<p>Die Autorschaft in der Zeitschrift sollte nicht auf eine bestimmte Art von Zugehörigkeit beschränkt sein. Jede/r Autor*in kann einen Artikel einreichen, der den Zielen und dem Themenbereich der Zeitschrift entspricht.</p>" 
 
 msgid "plugins.generic.disco.diamond.ownershipScience"
 msgstr "Im Besitz der Community" 
@@ -150,13 +150,13 @@ msgid "plugins.generic.disco.appearance"
 msgstr "Darstellung"
 
 msgid "plugins.generic.disco.appearance.description"
-msgstr "Dieser Abschnitt konzentriert sich auf die Online-Präsenz und Zugänglichkeit der Zeitschrift. Wenn Sie sicherstellen, dass Ihre Zeitschrift wichtige Kriterien erfüllt – wie eine funktionsfähige Website, einen klaren und korrekten Zeitschriftentitel sowie eine qualitativ hochwertige englische Startseite –, kann dies ihre Sichtbarkeit erheblich verbessern. Hier prüfen Sie, ob der gesamte Inhalt Ihrer Zeitschrift online verfügbar ist, bestätigen die Verfügbarkeit einer eISSN und überprüfen, ob der Inhalt der Zeitschrift frei zugänglich ist. Nutzen Sie diese Übersicht, um Verbesserungsmöglichkeiten zu identifizieren, die Ihre Zeitschrift für Leser und Indexierungsdienste besser auffindbar machen könnten."
+msgstr "Dieser Abschnitt konzentriert sich auf die Online-Präsenz und Zugänglichkeit der Zeitschrift. Wenn Sie sicherstellen, dass Ihre Zeitschrift wichtige Kriterien erfüllt – wie eine funktionsfähige Website, einen klaren und korrekten Zeitschriftentitel sowie eine qualitativ hochwertige englische Startseite –, kann dies ihre Sichtbarkeit erheblich verbessern. Hier prüfen Sie, ob der gesamte Inhalt Ihrer Zeitschrift online verfügbar ist, bestätigen die Verfügbarkeit einer eISSN und überprüfen, ob der Inhalt der Zeitschrift frei zugänglich ist. Nutzen Sie diese Übersicht, um Verbesserungsmöglichkeiten zu identifizieren, die Ihre Zeitschrift für Leser*innen und Indexierungsdienste besser auffindbar machen könnten."
 
 msgid "plugins.generic.disco.appearance.functionalWebsite"
 msgstr "Funktionsfähige Website" 
 
 msgid "plugins.generic.disco.appearance.functionalWebsite.description"
-msgstr "Die Angaben zur Website müssen korrekt sein, und die Informationsarchitektur sowie das Navigationssystem müssen einen einfachen Zugriff auf die veröffentlichten Inhalte und alle anderen für die Zeitschrift charakteristischen Merkmale (wie z. B. Redaktionsbeirat, Hinweise für Autoren, Peer-Review, Zugangsmodell usw.) gewährleisten. Die Website der Zeitschrift muss einen eindeutigen Link zur Website des Verlags enthalten und umgekehrt." 
+msgstr "Die Angaben zur Website müssen korrekt sein, und die Informationsarchitektur sowie das Navigationssystem müssen einen einfachen Zugriff auf die veröffentlichten Inhalte und alle anderen für die Zeitschrift charakteristischen Merkmale (wie z. B. Redaktionsbeirat, Hinweise für Autor*innen, Peer-Review, Zugangsmodell usw.) gewährleisten. Die Website der Zeitschrift muss einen eindeutigen Link zur Website des Verlags enthalten und umgekehrt." 
 
 msgid "plugins.generic.disco.appearance.journalUrl"
 msgstr "URL der Zeitschrift" 
@@ -180,7 +180,7 @@ msgid "plugins.generic.disco.appearance.journalTitle"
 msgstr "Zeitschriftentitel" 
 
 msgid "plugins.generic.disco.appearance.journalTitle.description"
-msgstr "Die Zeitschrift muss einen eindeutigen Titel haben, der mit der registrierten ISSN, dem angegebenen Themenbereich der Zeitschrift, den veröffentlichten Inhalten und der demografischen Zusammensetzung der Community (Redaktionsbeirat und Autoren) übereinstimmt. Der Titel sollte auf der Ebene der Artikel, der Ausgaben (falls vorhanden), der Zeitschrift und der Website einheitlich angezeigt werden." 
+msgstr "Die Zeitschrift muss einen eindeutigen Titel haben, der mit der registrierten ISSN, dem angegebenen Themenbereich der Zeitschrift, den veröffentlichten Inhalten und der demografischen Zusammensetzung der Community (Redaktionsbeirat und Autor*innen) übereinstimmt. Der Titel sollte auf der Ebene der Artikel, der Ausgaben (falls vorhanden), der Zeitschrift und der Website einheitlich angezeigt werden." 
 
 msgid "plugins.generic.disco.appearance.metaInformationFilled"
 msgstr "" 
@@ -198,19 +198,19 @@ msgid "plugins.generic.disco.journalDescription"
 msgstr "Beschreibung der Zeitschrift"
 
 msgid "plugins.generic.disco.journalDescription.description"
-msgstr "In diesem Abschnitt geht es darum, sicherzustellen, dass Ihre Zeitschrift wesentliche Informationen bereitstellt, um ihre Glaubwürdigkeit, Transparenz und Zugänglichkeit zu gewährleisten. Eine gut dokumentierte Beschreibung der Ziele und des Umfangs, klare Autorenrichtlinien, Angaben zum Redaktionsbeirat sowie Kontaktinformationen sind entscheidend, um das Vertrauen der Leser und Autoren zu stärken. Darüber hinaus tragen die Einhaltung ethischer Standards, Transparenz im Peer-Review-Prozess und die Veröffentlichung origineller wissenschaftlicher Artikel zur Sichtbarkeit und zum Ansehen der Zeitschrift in der akademischen Gemeinschaft bei."
+msgstr "In diesem Abschnitt geht es darum, sicherzustellen, dass Ihre Zeitschrift wesentliche Informationen bereitstellt, um ihre Glaubwürdigkeit, Transparenz und Zugänglichkeit zu gewährleisten. Eine gut dokumentierte Beschreibung der Ziele und des Umfangs, klare Autor*innenrichtlinien, Angaben zum Redaktionsbeirat sowie Kontaktinformationen sind entscheidend, um das Vertrauen der Leser*innen und Autor*innen zu stärken. Darüber hinaus tragen die Einhaltung ethischer Standards, Transparenz im Peer-Review-Prozess und die Veröffentlichung origineller wissenschaftlicher Artikel zur Sichtbarkeit und zum Ansehen der Zeitschrift in der akademischen Gemeinschaft bei."
 
 msgid "plugins.generic.disco.journalDescription.aimsAndScopeDescribed"
-msgstr "Seite mit Zielen und Themenbereich" 
+msgstr "Seite mit Zielen und Themenbereich (‚Aims and Scope‘)" 
 
 msgid "plugins.generic.disco.journalDescription.aimsAndScopeDescribed.description"
 msgstr "<p>Die Zeitschrift muss über einen klar definierten Themenbereich und ein klares Leitbild verfügen, die ihren Schwerpunkt und ihre Kohärenz widerspiegeln.</p><p>Die veröffentlichten Inhalte sollten mit dem Titel der Zeitschrift und dem angegebenen Themenbereich sowie gegebenenfalls mit dem Thema der Sonder -Ausgabe, in der sie erscheinen, übereinstimmen.</p><p>An wen richtet sich die Zeitschrift? Berücksichtigen Sie Ihre Zielgruppe: Forscher, Praktiker, Studierende oder eine bestimmte wissenschaftliche Gemeinschaft.</p>" 
 
 msgid "plugins.generic.disco.journalDescription.authorGuidelinesDescribed"
-msgstr "Die Richtlinien für Autoren sind gut beschrieben" 
+msgstr "Die Richtlinien für Autor*innen sind gut beschrieben" 
 
 msgid "plugins.generic.disco.journalDescription.authorGuidelinesDescribed.description"
-msgstr "Es sollten klare und umfassende Autorenrichtlinien bereitgestellt werden, vorzugsweise auf Englisch." 
+msgstr "Es sollten klare und umfassende Autor*innenrichtlinien bereitgestellt werden, vorzugsweise auf Englisch." 
 
 msgid "plugins.generic.disco.journalDescription.bibliographicInformation"
 msgstr "Bibliografische Angaben in lateinischer Schrift" 
@@ -222,7 +222,7 @@ msgid "plugins.generic.disco.journalDescription.editorialBoardPage"
 msgstr "Redaktionsbeirat mit Angaben zu den Zugehörigkeiten" 
 
 msgid "plugins.generic.disco.journalDescription.editorialBoardPage.description"
-msgstr "<p>Die Mitglieder des Redaktionsbeirats müssen identifizierbar und erreichbar sein.</p><p>Die Namen und institutionellen Zugehörigkeiten – einschließlich Land oder Region – aller Mitglieder des Redaktionsteams (z. B. Chefredakteur, Mitglieder des Redaktionsbeirats, Mitherausgeber, Regionalredakteure) müssen angegeben werden. Dies gilt auch für Gastredakteure von Sonderausgaben. </p><p>Zur Überprüfung der Identität und Zugehörigkeit können auch persistente digitale Identifikatoren (wie ORCID oder ResearcherID) oder Links zu institutionellen Profilen angegeben werden.</p>" 
+msgstr "<p>Die Mitglieder des Redaktionsbeirats müssen identifizierbar und erreichbar sein.</p><p>Die Namen und institutionellen Zugehörigkeiten – einschließlich Land oder Region – aller Mitglieder des Redaktionsteams (z. B. Chefredakteur, Mitglieder des Redaktionsbeirats, Mitherausgeber*innen, Regionalredakteure) müssen angegeben werden. Dies gilt auch für Gastredakteure von Sonderausgaben. </p><p>Zur Überprüfung der Identität und Zugehörigkeit können auch persistente digitale Identifikatoren (wie ORCID oder ResearcherID) oder Links zu institutionellen Profilen angegeben werden.</p>" 
 
 msgid "plugins.generic.disco.journalDescription.contactDetailsAvailable"
 msgstr "Kontaktdaten verfügbar" 
@@ -234,25 +234,25 @@ msgid "plugins.generic.disco.journalDescription.editorialBoardPageExists"
 msgstr "Ist das Feld "Redaktionsbeirat" in OJS ausgefüllt?" 
 
 msgid "plugins.generic.disco.journalDescription.editorialBoardPageExists.description"
-msgstr "OJS prüft, ob die Seite mit der Redaktion in OJS vorhanden ist." 
+msgstr "OJS prüft, ob die Seite mit Angaben zur Redaktion in OJS vorhanden ist." 
 
 msgid "plugins.generic.disco.journalDescription.journalPublisherNameAvailable"
-msgstr "Der Name des Herausgebers der Zeitschrift ist auf der Webseite verfügbar" 
+msgstr "Der Name des/der Herausgebers/in der Zeitschrift ist auf der Webseite verfügbar" 
 
 msgid "plugins.generic.disco.journalDescription.journalPublisherNameAvailable.description"
-msgstr "OJS prüft, ob der Name des Herausgebers der Zeitschrift angegeben ist. <br />Der Name des Herausgebers muss eindeutig definiert sein, und es muss eine überprüfbare, physische Adresse (kein Postfach) für die Geschäftsräume des Herausgebers angegeben werden. Falls eine Zugehörigkeit zu einem Verband oder eine Eigentümerschaft besteht, sollte dies angegeben werden, und es müssen überprüfbare Kontaktinformationen bereitgestellt werden." 
+msgstr "OJS prüft, ob der Name des/der Herausgebers/in der Zeitschrift angegeben ist. <br />Der Name des/der Herausgebers/in muss eindeutig definiert sein, und es muss eine überprüfbare, physische Adresse (kein Postfach) für die Geschäftsräume des/der Herausgebers/in angegeben werden. Falls eine Zugehörigkeit zu einem Verband oder eine Eigentümerschaft besteht, sollte dies angegeben werden, und es müssen überprüfbare Kontaktinformationen bereitgestellt werden." 
 
 msgid "plugins.generic.disco.journalDescription.peerReviewDescribed"
 msgstr "Beschreibung des Peer-Review-Verfahrens" 
 
 msgid "plugins.generic.disco.journalDescription.peerReviewDescribed.description"
-msgstr "Die Zeitschrift muss eine leicht zugängliche, klare Erklärung zu ihrem Engagement für das Peer-Review-Verfahren und/oder die redaktionelle Aufsicht über alle veröffentlichten Inhalte bereitstellen. Primäre Forschungsartikel müssen einem externen Peer-Review-Verfahren unterzogen werden. <br />Veröffentlichte Inhalte müssen ein angemessenes und wirksames Peer-Review-Verfahren und/oder eine redaktionelle Aufsicht widerspiegeln. Anzeichen für ein unzureichendes Peer-Review-Verfahren sind unter anderem Artikel, die einen Mangel an wissenschaftlicher Stringenz oder wissenschaftlicher Validität aufweisen, das Vorhandensein von Artikeln außerhalb des Themenbereichs der Zeitschrift oder irrelevante Zitate.<br/>ERIH PLUS verlangt eine explizite Beschreibung der Verfahren der Zeitschrift für ein externes/unabhängiges Peer-Review-Verfahren. Zumindest muss auf der Website der Zeitschrift beschrieben werden, wie das Verfahren sicherstellt, dass die Gutachter von den Autoren unabhängig sind" 
+msgstr "Die Zeitschrift muss eine leicht zugängliche, klare Erklärung zu ihrem Engagement für das Peer-Review-Verfahren und/oder die redaktionelle Aufsicht über alle veröffentlichten Inhalte bereitstellen. Primäre Forschungsartikel müssen einem externen Peer-Review-Verfahren unterzogen werden. <br />Veröffentlichte Inhalte müssen ein angemessenes und wirksames Peer-Review-Verfahren und/oder eine redaktionelle Aufsicht widerspiegeln. Anzeichen für ein unzureichendes Peer-Review-Verfahren sind unter anderem Artikel, die einen Mangel an wissenschaftlicher Stringenz oder wissenschaftlicher Validität aufweisen, das Vorhandensein von Artikeln außerhalb des Themenbereichs der Zeitschrift oder irrelevante Zitate.<br/>ERIH PLUS verlangt eine explizite Beschreibung der Verfahren der Zeitschrift für ein externes/unabhängiges Peer-Review-Verfahren. Zumindest muss auf der Website der Zeitschrift beschrieben werden, wie das Verfahren sicherstellt, dass die Gutachter*innen von den Autor*innen unabhängig sind" 
 
 msgid "plugins.generic.disco.journalDescription.publicationEthicsDescribed"
 msgstr "Die Publikationsethik ist gut beschrieben" 
 
 msgid "plugins.generic.disco.journalDescription.publicationEthicsDescribed.description"
-msgstr "Die Erklärung zur Publikationsethik und zu wissenschaftlichem Fehlverhalten muss öffentlich zugänglich sein. <br /> Die Zeitschrift muss hinsichtlich ihrer ethischen Anforderungen an Autoren und veröffentlichte Arbeiten transparent sein. Wenn die Zeitschrift die Grundsätze einer oder mehrerer Drittorganisationen (WAME, COPE, Deklaration von Helsinki usw.) unterstützt und anwendet, sollte entweder der vollständige Text der Richtlinien präsentiert und die Quelle entsprechend angegeben werden, oder es sollte ein funktionierender Link zum vollständigen Text der Richtlinie bereitgestellt werden." 
+msgstr "Die Erklärung zur Publikationsethik und zu wissenschaftlichem Fehlverhalten muss öffentlich zugänglich sein. <br /> Die Zeitschrift muss hinsichtlich ihrer ethischen Anforderungen an Autor*innen und veröffentlichte Arbeiten transparent sein. Wenn die Zeitschrift die Grundsätze einer oder mehrerer Drittorganisationen (WAME, COPE, Deklaration von Helsinki usw.) unterstützt und anwendet, sollte entweder der vollständige Text der Richtlinien präsentiert und die Quelle entsprechend angegeben werden, oder es sollte ein funktionierender Link zum vollständigen Text der Richtlinie bereitgestellt werden." 
 
 msgid "plugins.generic.disco.journalDescription.scholarlyArticles"
 msgstr "Originalwissenschaftliche Artikel" 
@@ -276,7 +276,7 @@ msgid "plugins.generic.disco.lpGalleys.lpDoi"
 msgstr "Die DOI wird als URL angezeigt" 
 
 msgid "plugins.generic.disco.lpGalleys.lpDoi.description"
-msgstr "Dadurch können Leser den DOI-Link beim Zitieren des Artikels einfach kopieren und einfügen. (Erfahren Sie mehr über die <a href="https://www.crossref.org/display-guidelines" target="_blank">DOI-Anzeigerichtlinien</a> von Crossref)" 
+msgstr "Dadurch können Leser*innen den DOI-Link beim Zitieren des Artikels einfach kopieren und einfügen. (Erfahren Sie mehr über die <a href="https://www.crossref.org/display-guidelines" target="_blank">DOI-Anzeigerichtlinien</a> von Crossref)" 
 
 msgid "plugins.generic.disco.lpGalleys.linkToFulltext"
 msgstr "Eine Möglichkeit, auf den Volltext des Inhalts zuzugreifen" 
@@ -307,7 +307,7 @@ msgid "plugins.generic.disco.metadataRequirements"
 msgstr "Anforderungen an Metadaten"
 
 msgid "plugins.generic.disco.metadataRequirements.description"
-msgstr "Diese Kategorie konzentriert sich auf die Qualität und Vollständigkeit der Metadaten, um die Auffindbarkeit und Interoperabilität der Zeitschrift zu verbessern. Zu den wichtigsten Aspekten gehören die Angabe der Zugehörigkeit der Autoren, die Bereitstellung von Metadaten in maschinenlesbaren Formaten mit Meta-Tags, die Nutzung des OAI-PMH-Protokolls, die Vergabe von DOIs, die Einbeziehung von Titeln und Abstracts in englischer Sprache sowie die korrekte Kennzeichnung von Literaturangaben für eine genaue Indizierung und Zitierung."
+msgstr "Diese Kategorie konzentriert sich auf die Qualität und Vollständigkeit der Metadaten, um die Auffindbarkeit und Interoperabilität der Zeitschrift zu verbessern. Zu den wichtigsten Aspekten gehören die Angabe der Zugehörigkeit der Autor*innen, die Bereitstellung von Metadaten in maschinenlesbaren Formaten mit Meta-Tags, die Nutzung des OAI-PMH-Protokolls, die Vergabe von DOIs, die Einbeziehung von Titeln und Abstracts in englischer Sprache sowie die korrekte Kennzeichnung von Literaturangaben für eine genaue Indizierung und Zitierung."
 
 
 msgid "plugins.generic.disco.metadataRequirements.metadataFormatOpenAIRE"
@@ -323,10 +323,10 @@ msgid "plugins.generic.disco.metadataRequirements.markingReferences.description"
 msgstr "Kennzeichnen Sie den Abschnitt des Artikels, der Verweise auf andere Werke enthält, mit einer Standardüberschrift wie "Literaturverzeichnis" oder "Bibliografie" in einer eigenen Zeile. Einzelne Literaturangaben innerhalb dieses Abschnitts sollten im PDF entweder mit "1. – 2. – 3." oder "[1] – [2] – [3]" nummeriert oder in HTML in eine "&lt;ol&gt;"-Liste eingefügt werden. Der Text jeder Literaturangabe muss eine formale bibliografische Angabe in einem gängigen Format sein, ohne frei formulierte Kommentare." 
 
 msgid "plugins.generic.disco.metadataRequirements.authorsAffiliations"
-msgstr "Angaben zur Zugehörigkeit der Autoren angegeben" 
+msgstr "Angaben zur Zugehörigkeit der Autor*innen angegeben" 
 
 msgid "plugins.generic.disco.metadataRequirements.authorsAffiliations.description"
-msgstr "Die Autoren aller wissenschaftlichen Arbeiten müssen eindeutig identifiziert werden. Die Namen und institutionellen Zugehörigkeiten – einschließlich Land/Region – aller mitwirkenden Autoren sind anzugeben. Zur Angabe der Identität und Zugehörigkeit der Autoren können persistente digitale Identifikatoren (wie ResearcherID oder ORCID) oder Links zu institutionellen Profilen bereitgestellt werden.</p><p>ERIH PLUS verlangt für alle wissenschaftlichen Artikel der letzten zwei Veröffentlichungsjahre Angaben zu den institutionellen Zugehörigkeiten der Autoren, d. h. die vollständigen Namen der jeweiligen Universitäten oder anderer unabhängiger Forschungseinrichtungen. ERIH PLUS empfiehlt den Zeitschriften zudem, die Adressen der Autoren (entweder E-Mail- oder Postadressen) anzugeben.</p>" 
+msgstr "Die Autor*innen aller wissenschaftlichen Arbeiten müssen eindeutig identifiziert werden. Die Namen und institutionellen Zugehörigkeiten – einschließlich Land/Region – aller mitwirkenden Autor*innen sind anzugeben. Zur Angabe der Identität und Zugehörigkeit der Autor*innen können persistente digitale Identifikatoren (wie ResearcherID oder ORCID) oder Links zu institutionellen Profilen bereitgestellt werden.</p><p>ERIH PLUS verlangt für alle wissenschaftlichen Artikel der letzten zwei Veröffentlichungsjahre Angaben zu den institutionellen Zugehörigkeiten der Autor*innen, d. h. die vollständigen Namen der jeweiligen Universitäten oder anderer unabhängiger Forschungseinrichtungen. ERIH PLUS empfiehlt den Zeitschriften zudem, die Adressen der Autor*innen (entweder E-Mail- oder Postadressen) anzugeben.</p>" 
 
 msgid "plugins.generic.disco.metadataRequirements.machineReadableMetadataFormat"
 msgstr "Metadaten in maschinenlesbarem Format – Meta-Tags" 
@@ -401,10 +401,10 @@ msgid "plugins.generic.disco.metadataQuality.audience.description"
 msgstr "Für wen ist die Ressource bestimmt oder nützlich? <p>OpenAIRE: <strong>Empfohlen / Optional</strong></p><p><a href="https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_audience.html" target="_blank">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_audience.html</a></p>" 
 
 msgid "plugins.generic.disco.metadataQuality.authors"
-msgstr "Urheber / Autoren" 
+msgstr "Urheber / Autor*innen" 
 
 msgid "plugins.generic.disco.metadataQuality.authors.description"
-msgstr "Die Autoren der Veröffentlichung werden in der Reihenfolge ihrer Priorität aufgeführt. Dabei kann es sich um einen Personennamen oder einen Unternehmens-/Institutionsnamen handeln.<p>OpenAIRE: <strong>Erforderlich</strong></p><p><a href="https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator" target="_blank">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator</a></p>" 
+msgstr "Die Autor*innen der Veröffentlichung werden in der Reihenfolge ihrer Priorität aufgeführt. Dabei kann es sich um einen Personennamen oder einen Unternehmens-/Institutionsnamen handeln.<p>OpenAIRE: <strong>Erforderlich</strong></p><p><a href="https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator" target="_blank">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator</a></p>" 
 
 msgid "plugins.generic.disco.metadataQuality.contributors"
 msgstr "Mitwirkende" 
@@ -488,7 +488,7 @@ msgid "plugins.generic.disco.metadataQuality.publisher"
 msgstr "Herausgeber" 
 
 msgid "plugins.generic.disco.metadataQuality.publisher.description"
-msgstr "Eine Instanz, die für die Bereitstellung der Ressource verantwortlich ist. Beispiele für einen Herausgeber sind eine Person, eine Organisation oder ein Dienst. In der Regel sollte der Name des Herausgebers verwendet werden, um die Instanz anzugeben.<p>OpenAIRE: <strong>Erforderlich, falls zutreffend</strong></p><p><a href="https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher" target="_blank">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher</a></p>" 
+msgstr "Eine Instanz, die für die Bereitstellung der Ressource verantwortlich ist. Beispiele für einen Herausgeber/eine Herausgeberin sind eine Person, eine Organisation oder ein Dienst. In der Regel sollte der Name des/der Herausgebers/in verwendet werden, um die Instanz anzugeben.<p>OpenAIRE: <strong>Erforderlich, falls zutreffend</strong></p><p><a href="https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher" target="_blank">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher</a></p>" 
 
 msgid "plugins.generic.disco.metadataQuality.relatedIdentifier"
 msgstr "Zugehörige Kennung" 
@@ -549,7 +549,7 @@ msgid "plugins.generic.disco.metadataQuality.title.countCheck"
 msgstr "Die Anzahl der Artikel mit ausgefüllten Titeln in der primären Lokalisierung der Zeitschrift."
 
 msgid "plugins.generic.disco.metadataQuality.authors.countCheck"
-msgstr "Die Anzahl der Artikel mit mindestens einem zugehörigen Autor."
+msgstr "Die Anzahl der Artikel mit mindestens einem/r zugehörigen Autor*in."
 
 msgid "plugins.generic.disco.metadataQuality.publicationDate.countCheck"
 msgstr "Die Anzahl der Artikel, bei denen das Veröffentlichungsdatum angegeben ist."
@@ -696,16 +696,16 @@ msgid "plugins.generic.disco.impactRecommendations.description"
 msgstr "Diese Kategorie konzentriert sich auf die Stärkung des wissenschaftlichen Einflusses und des Rufs der Zeitschrift. Sie hebt die geografische Vielfalt der Autor*innen und des Redaktionsbeirats hervor, analysiert Zitierkennzahlen sowohl für Autor*innen als auch für Beiratsmitglieder, bewertet die Zitierhäufigkeit von Zeitschriftenartikeln und betont die Bedeutung des wissenschaftlichen Beitrags der Inhalte für das jeweilige Fachgebiet."
 
 msgid "plugins.generic.disco.impactRecommendations.authorsDiversity"
-msgstr "Vielfalt in der geografischen Verteilung der Autoren" 
+msgstr "Vielfalt in der geografischen Verteilung der Autor*innen" 
 
 msgid "plugins.generic.disco.impactRecommendations.authorsDiversity.description"
-msgstr "Die Autoren müssen über Zugehörigkeiten, geografische Vielfalt und Publikationslisten verfügen, die ihre Teilnahme an der wissenschaftlichen Gemeinschaft im Zusammenhang mit dem angegebenen Themenbereich der Zeitschrift belegen.<p>DOAJ: Der Anteil der veröffentlichten Forschungsartikel, bei denen unter mindestens einer der Autoren Herausgeber, Mitglied des Redaktionsbeirats oder Gutachter ist, darf in keiner der beiden letzten Ausgaben 25 % überschreiten</p><p>ERIH PLUS verlangt, dass nicht mehr als zwei Drittel der in der Zeitschrift veröffentlichten Autoren derselben Einrichtung angehören. Die Autorenverteilung von Zeitschriften wird anhand der Veröffentlichungen der letzten zwei Jahre ermittelt.</p><p>REDALYC: Mindestens 70 % aller in jeder Ausgabe veröffentlichten wissenschaftlichen Arbeiten müssen Beiträge sein, die von außerhalb der herausgebenden Einrichtung stammen (mit mindestens einem externen Autor).</p><p>Endogenität sollte auf ein Minimum reduziert werden.</p>" 
+msgstr "Die Autor*innen müssen über Zugehörigkeiten, geografische Vielfalt und Publikationslisten verfügen, die ihre Teilnahme an der wissenschaftlichen Gemeinschaft im Zusammenhang mit dem angegebenen Themenbereich der Zeitschrift belegen.<p>DOAJ: Der Anteil der veröffentlichten Forschungsartikel, bei denen unter mindestens einer der Autor*innen Herausgeber*innen, Mitglied des Redaktionsbeirats oder Gutachter*innen ist, darf in keiner der beiden letzten Ausgaben 25 % überschreiten</p><p>ERIH PLUS verlangt, dass nicht mehr als zwei Drittel der in der Zeitschrift veröffentlichten Autor*innen derselben Einrichtung angehören. Die Autor*innenverteilung von Zeitschriften wird anhand der Veröffentlichungen der letzten zwei Jahre ermittelt.</p><p>REDALYC: Mindestens 70 % aller in jeder Ausgabe veröffentlichten wissenschaftlichen Arbeiten müssen Beiträge sein, die von außerhalb der herausgebenden Einrichtung stammen (mit mindestens einem/r externen Autor*in).</p><p>Endogenität sollte auf ein Minimum reduziert werden.</p>" 
 
 msgid "plugins.generic.disco.impactRecommendations.citedAuthors"
-msgstr "Zitationsanalyse der Autoren" 
+msgstr "Zitationsanalyse der Autor*innen" 
 
 msgid "plugins.generic.disco.impactRecommendations.citedAuthors.description"
-msgstr "Die meisten Autoren sollten über eine erkennbare Publikationshistorie im Web of Science verfügen. Die Zitationsnetzwerke der Autoren sollten der Kategorie und Zeitschriften mit vergleichbarem Umfang angemessen sein." 
+msgstr "Die meisten Autor*innen sollten über eine erkennbare Publikationshistorie im Web of Science verfügen. Die Zitationsnetzwerke der Autor*innen sollten der Kategorie und Zeitschriften mit vergleichbarem Umfang angemessen sein." 
 
 msgid "plugins.generic.disco.impactRecommendations.citedEditorialBoard"
 msgstr "Zitationsanalyse des Redaktionsbeirats" 
@@ -848,7 +848,7 @@ msgid "plugins.generic.disco.journalTitle.autocheck"
 msgstr "OJS-Prüfung: Der Titel der Zeitschrift ist eingerichtet."
 
 msgid "plugins.generic.disco.authorGuidelinesDescribed.autocheck"
-msgstr "OJS-Prüfung: Das Feld ‚Richtlinien für Autoren‘ ist ausgefüllt."
+msgstr "OJS-Prüfung: Das Feld ‚Richtlinien für Autor*innen‘ ist ausgefüllt."
 
 msgid "plugins.generic.disco.editorialBoardPage.autocheck"
 msgstr "OJS-Prüfung: Die Seite ‚Redaktionsteam‘ ist ausgefüllt."
@@ -863,7 +863,7 @@ msgid "plugins.generic.disco.mailingAddress.autocheck"
 msgstr "OJS-Prüfung: Die Postanschrift ist eingerichtet."
 
 msgid "plugins.generic.disco.journalPublisherNameAvailable.autocheck"
-msgstr "OJS-Prüfung: Der Name des Herausgebers ist eingerichtet."
+msgstr "OJS-Prüfung: Der Name des/der Herausgebers/in ist eingerichtet."
 
 msgid "plugins.generic.disco.dublinCore.autocheck"
 msgstr "OJS-Prüfung: Das Dublin-Core-Meta-Plugin ist aktiviert."
@@ -884,10 +884,10 @@ msgid "plugins.generic.disco.publisher.autocheck"
 msgstr "OJS-Prüfung: Der Name des Verlags ist angegeben."
 
 msgid "plugins.generic.disco.noRegistrationNeed.autocheck"
-msgstr "OJS-Prüfung: Keine Registrierung für Leser erforderlich"
+msgstr "OJS-Prüfung: Keine Registrierung für Leser*innen erforderlich"
 
 msgid "plugins.generic.disco.copyrightTerms.autocheck"
-msgstr "OJS-Prüfung: Der Urheberrechtshinweis für Autoren ist ausgefüllt."
+msgstr "OJS-Prüfung: Der Urheberrechtshinweis für Autor*innen ist ausgefüllt."
 
 msgid "plugins.generic.disco.noEmbargoPeriod.autocheck"
 msgstr "OJS-Prüfung: Keine Sperrfristeinstellungen im Veröffentlichungsmodus."
@@ -944,7 +944,7 @@ msgid "plugins.generic.disco.knowledgeBase.semanticscholar"
 msgstr "Semantic Scholar"
 
 msgid "plugins.generic.disco.knowledgeBase.semanticscholar.description"
-msgstr "Semantic Scholar stellt der globalen Forschungsgemeinschaft kostenlose, KI-gestützte Such- und Recherchetools sowie offene Ressourcen zur Verfügung. Es indexiert über 200 Millionen wissenschaftliche Artikel, die aus Partnerschaften mit Verlagen, Datenanbietern und Web-Crawls stammen. KI-Funktionen ermöglichen die Analyse von Abstracts und Zitaten.<p><strong>Anmeldeprozess</strong></p><p>Semantic Scholar arbeitet hauptsächlich mit großen Verlagen und Repositorien zusammen.<br />Vollautomatischer Indizierungsprozess auf Basis einer Liste wissenschaftlicher Verlage, Datenanbieter und Aggregatoren.<br />Autoren können Artikelanfragen einreichen, indem sie dieser Anleitung folgen: <a target="_blank" href="https://www.semanticscholar.org/faq/add-papers-author-page">https://www.semanticscholar.org/faq/add-papers-author-page</a></p>"
+msgstr "Semantic Scholar stellt der globalen Forschungsgemeinschaft kostenlose, KI-gestützte Such- und Recherchetools sowie offene Ressourcen zur Verfügung. Es indexiert über 200 Millionen wissenschaftliche Artikel, die aus Partnerschaften mit Verlagen, Datenanbietern und Web-Crawls stammen. KI-Funktionen ermöglichen die Analyse von Abstracts und Zitaten.<p><strong>Anmeldeprozess</strong></p><p>Semantic Scholar arbeitet hauptsächlich mit großen Verlagen und Repositorien zusammen.<br />Vollautomatischer Indizierungsprozess auf Basis einer Liste wissenschaftlicher Verlage, Datenanbieter und Aggregatoren.<br />Autor*innen können Artikelanfragen einreichen, indem sie dieser Anleitung folgen: <a target="_blank" href="https://www.semanticscholar.org/faq/add-papers-author-page">https://www.semanticscholar.org/faq/add-papers-author-page</a></p>"
 
 msgid "plugins.generic.disco.knowledgeBase.doaj"
 msgstr "DOAJ"
@@ -992,7 +992,7 @@ msgid "plugins.generic.disco.knowledgeBase.openalex"
 msgstr "OpenAlex"
 
 msgid "plugins.generic.disco.knowledgeBase.openalex.description"
-msgstr "Offener Katalog wissenschaftlicher Werke (Zeitschriftenartikel, Konferenzbeiträge, Bücher und Buchkapitel, Datensätze und Dissertationen), Autoren und Institutionen. Er umfasst Verbindungen zwischen diesen Werken und ermittelt Zusammenhänge anhand von Zeitschriften, Autoren, institutionellen Zugehörigkeiten, Zitaten, Konzepten und Förderern.<p><strong>Aufnahmeprozess</strong></p><p>OpenAlex indexiert automatisch neue Zeitschriften und Artikel und bezieht dabei vor allem Datensätze von Crossref, aber auch von DOAJ und anderen Quellen."
+msgstr "Offener Katalog wissenschaftlicher Werke (Zeitschriftenartikel, Konferenzbeiträge, Bücher und Buchkapitel, Datensätze und Dissertationen), Autor*innen und Institutionen. Er umfasst Verbindungen zwischen diesen Werken und ermittelt Zusammenhänge anhand von Zeitschriften, Autor*innen, institutionellen Zugehörigkeiten, Zitaten, Konzepten und Förderern.<p><strong>Aufnahmeprozess</strong></p><p>OpenAlex indexiert automatisch neue Zeitschriften und Artikel und bezieht dabei vor allem Datensätze von Crossref, aber auch von DOAJ und anderen Quellen."
 
 msgid "plugins.generic.disco.knowledgeBase.pubmed"
 msgstr "PubMed"
@@ -1058,7 +1058,7 @@ msgid "plugins.generic.disco.knowledgeBase.ddh"
 msgstr "Diamond Discovery Hub"
 
 msgid "plugins.generic.disco.knowledgeBase.ddh.description"
-msgstr "Der Diamond Discovery Hub (DDH) ist einer der Dienste des European Diamond Discovery Hub (EDCH). Sein Ziel ist es, ein umfassendes Register für institutionell veröffentlichte und von Wissenschaftlern geführte Open-Access-Zeitschriften ohne Autorengebühren in Europa zu werden, um die Sichtbarkeit und Auffindbarkeit von Diamond-OA-Zeitschriften zu verbessern."
+msgstr "Der Diamond Discovery Hub (DDH) ist einer der Dienste des European Diamond Discovery Hub (EDCH). Sein Ziel ist es, ein umfassendes Register für institutionell veröffentlichte und von Wissenschaftlern geführte Open-Access-Zeitschriften ohne Autor*innengebühren in Europa zu werden, um die Sichtbarkeit und Auffindbarkeit von Diamond-OA-Zeitschriften zu verbessern."
 
 msgid "plugins.generic.disco.knowledgeBase.ddh.application"
 msgstr "Zur Anwendung vorschlagen"
@@ -1073,7 +1073,7 @@ msgid "plugins.generic.disco.badges"
 msgstr "Abzeichen"
 
 msgid "plugins.generic.disco.badges.description"
-msgstr "<p>Die Badges sind ein wesentlicher Bestandteil des OJS Discoverability Companion (DISCO-Plugin).</p><p>Der Discoverability Companion (DISCO) ist ein Plugin, das Herausgebern wissenschaftlicher Zeitschriften dabei helfen soll, die Sichtbarkeit und Glaubwürdigkeit ihrer Zeitschriften zu verbessern, indem es sie durch die technischen und redaktionellen Kriterien führt, die von den großen Indexierungsdatenbanken gefordert werden. Es fasst diese Anforderungen – die oft ähnlich sind, aber plattformübergreifend unterschiedlich beschrieben werden – in einer übersichtlichen, benutzerfreundlichen Oberfläche zusammen. Durch die Klärung der Terminologie und die Darstellung sich überschneidender Standards verringert DISCO die Komplexität der Einhaltung und unterstützt bessere Indizierungsergebnisse.</p><p>Ein wesentliches Merkmal des Plugins ist eine Reihe von Badges, die in der Fußzeile der Website erscheinen. Diese Badges signalisieren Lesern und Gutachtern, dass die Zeitschrift anerkannte Standards hinsichtlich Qualität, Transparenz und Offenheit erfüllt.</p>"
+msgstr "<p>Die Badges sind ein wesentlicher Bestandteil des OJS Discoverability Companion (DISCO-Plugin).</p><p>Der Discoverability Companion (DISCO) ist ein Plugin, das Herausgebern wissenschaftlicher Zeitschriften dabei helfen soll, die Sichtbarkeit und Glaubwürdigkeit ihrer Zeitschriften zu verbessern, indem es sie durch die technischen und redaktionellen Kriterien führt, die von den großen Indexierungsdatenbanken gefordert werden. Es fasst diese Anforderungen – die oft ähnlich sind, aber plattformübergreifend unterschiedlich beschrieben werden – in einer übersichtlichen, benutzerfreundlichen Oberfläche zusammen. Durch die Klärung der Terminologie und die Darstellung sich überschneidender Standards verringert DISCO die Komplexität der Einhaltung und unterstützt bessere Indizierungsergebnisse.</p><p>Ein wesentliches Merkmal des Plugins ist eine Reihe von Badges, die in der Fußzeile der Website erscheinen. Diese Badges signalisieren Leser*innen und Gutachter*innen, dass die Zeitschrift anerkannte Standards hinsichtlich Qualität, Transparenz und Offenheit erfüllt.</p>"
 
 msgid "plugins.generic.disco.badges.badgesAvailable"
 msgstr "Erlaubt die Anzeige von Badges in der Fußzeile der Website."
@@ -1082,7 +1082,7 @@ msgid "plugins.generic.disco.badges.badgesAvailable.description"
 msgstr "Die Badges werden als Teil der Fußzeile auf allen Seiten der Zeitschrift angezeigt."
 
 msgid "plugins.generic.disco.about.openToAllAuthors"
-msgstr "<h3>Offen für alle Autoren:</h3><p>{$contextTitle} setzt sich für Offenheit und Inklusivität im wissenschaftlichen Publizieren ein, ohne dass den Autoren Gebühren für das Lesen oder Veröffentlichen entstehen. Wir begrüßen Einreichungen von allen Autoren, unabhängig von ihrer institutionellen Zugehörigkeit, ihrem geografischen Standort oder ihrem akademischen Status. Die Einreichungen müssen lediglich mit den Zielen und dem Umfang der Zeitschrift übereinstimmen und nach Abschluss des Begutachtungsprozesses die erforderlichen Qualitätsstandards erfüllen.</p>"
+msgstr "<h3>Offen für alle Autor*innen:</h3><p>{$contextTitle} setzt sich für Offenheit und Inklusivität im wissenschaftlichen Publizieren ein, ohne dass den Autor*innen Gebühren für das Lesen oder Veröffentlichen entstehen. Wir begrüßen Einreichungen von allen Autor*innen, unabhängig von ihrer institutionellen Zugehörigkeit, ihrem geografischen Standort oder ihrem akademischen Status. Die Einreichungen müssen lediglich mit den Zielen und dem Umfang der Zeitschrift übereinstimmen und nach Abschluss des Begutachtungsprozesses die erforderlichen Qualitätsstandards erfüllen.</p>"
 
 msgid "plugins.generic.disco.about.communityOwned"
 msgstr "<h3>Im Besitz der Gemeinschaft:</h3><p>{$contextTitle} ist im Besitz von {$publisherInstitution}, einer {$organisationType}-Einrichtung/Organisation, die sich der Förderung von Forschung und Wissenschaft verschrieben hat. Die Eigentums- und Leitungsstruktur der Zeitschrift spiegelt ihren Auftrag wider, offenes und barrierefreies wissenschaftliches Publizieren zu unterstützen. Wir bestätigen, dass alle an unserem Betrieb beteiligten kommerziellen Dienstleister ausschließlich dienstleistungsbezogene Aspekte des Zeitschriftenverlagswesens abwickeln. Alle inhaltsbezogenen Aspekte des Verlagswesens, wie z. B. Einreichung, Begutachtung, Annahme, Erscheinungshäufigkeit und Themenbereich der Zeitschrift, werden von den Herausgebern bzw. den Eigentümern der Zeitschrift kontrolliert.</p>"
@@ -1115,19 +1115,19 @@ msgid "plugins.generic.disco.badges.geographicalDiversity"
 msgstr "🌍 : Geografische Vielfalt"
 
 msgid "plugins.generic.disco.badges.geographicalDiversity.description"
-msgstr "Die Redaktion und die Autoren kommen aus verschiedenen Regionen der Welt, was Inklusivität und internationale Zusammenarbeit fördert."
+msgstr "Die Redaktion und die Autor*innen kommen aus verschiedenen Regionen der Welt, was Inklusivität und internationale Zusammenarbeit fördert."
 
 msgid "plugins.generic.disco.badges.noApc"
-msgstr "🚫 Keine Autorengebühren"
+msgstr "🚫 Keine Autor*innengebühren"
 
 msgid "plugins.generic.disco.badges.noApc.description"
-msgstr "Autoren müssen keine Gebühren zahlen, um ihre Artikel in der Zeitschrift zu veröffentlichen."
+msgstr "Autor*innen müssen keine Gebühren zahlen, um ihre Artikel in der Zeitschrift zu veröffentlichen."
 
 msgid "plugins.generic.disco.badges.openToAllAuthors"
-msgstr "✍️ Offen für alle Autoren"
+msgstr "✍️ Offen für alle Autor*innen"
 
 msgid "plugins.generic.disco.badges.openToAllAuthors.description"
-msgstr "Die Zeitschrift begrüßt Einreichungen von allen Autoren, unabhängig von Land, institutioneller Zugehörigkeit oder Status."
+msgstr "Die Zeitschrift begrüßt Einreichungen von allen Autor*innen, unabhängig von Land, institutioneller Zugehörigkeit oder Status."
 
 msgid "plugins.generic.disco.badges.plagiarismCheckImplemented"
 msgstr "🔍 -Plagiatsprüfung implementiert"
