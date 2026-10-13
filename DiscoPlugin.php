@@ -27,6 +27,10 @@ use PKP\plugins\GenericPlugin;
 use PKP\plugins\Hook;
 use PKP\db\DAORegistry;
 use PKP\plugins\PluginRegistry;
+use PKP\context\Context;
+use PKP\doi\Repository as DoiRepository;
+use PKP\submission\PKPSubmission;
+use Illuminate\Support\Facades\DB;
 
 /*
  * Services links to knowledge base
@@ -405,7 +409,8 @@ class DiscoPlugin extends GenericPlugin {
         $metadataQuality["language"] = $discoMetadataQualityDAO->getCountByArticleLocale($contextId);
 //        $metadataQuality["subject"] =;
 //        $metadataQuality["fileLocation"] =;
-        $metadataQuality["alternateIdentifier"] = $discoMetadataQualityDAO->getCountByPublicationSettings($contextId, "pub-id::doi", false);
+        // OJS 3.4+: DOIs are stored in the core `dois` table, not as pub-id::doi publication settings
+        $metadataQuality["alternateIdentifier"] = $this->getCountPublishedWithDoi($contextId);
 //        $metadataQuality["relatedIdentifier"] =;
 //        $metadataQuality["format"] =;
         $metadataQuality["source"] = $discoMetadataQualityDAO->getCountByPublicationSettings($contextId, "source");
@@ -483,7 +488,7 @@ class DiscoPlugin extends GenericPlugin {
         $automaticChecks["metadataRequirements"] = array(
             "machineReadableMetadataFormat" => array("dublinCore" => $this->checkPlugin('generic', 'dublinCoreMeta', $contextId), "googleSchoolar" => $this->checkPlugin('generic', 'googleScholar', $contextId)),
             "oaiPMHEnabled" => array("oaiPMHEnabled" => $enableOai),
-            "usingDOIs" => array("usingDOIs" => $this->checkPlugin('pubIds', 'doi', $contextId)),
+            "usingDOIs" => array("usingDOIs" => $this->checkDoisEnabled($context)),
             "metadataFormatOpenAIRE" => array("metadataFormatOpenAIRE" => $this->checkPlugin('generic', 'openAIREstandard', $contextId)),
         );
 
@@ -812,6 +817,45 @@ class DiscoPlugin extends GenericPlugin {
             }
         }
         return false;
+    }
+
+    /**
+     * Check whether DOIs are enabled in the OJS core (OJS 3.4+).
+     * Since OJS 3.4 there is no DOI pubIds plugin; DOIs are configured in
+     * Settings > Distribution > DOIs. The check passes when DOIs are enabled,
+     * a DOI prefix is set and DOIs are assigned to articles (publications).
+     *
+     * @param Context $context
+     * @return bool
+     */
+    public function checkDoisEnabled($context) {
+        if (!$context || !$context->areDoisEnabled()) {
+            return false;
+        }
+        $doiPrefix = trim((string) $context->getData(Context::SETTING_DOI_PREFIX));
+        if ($doiPrefix === '') {
+            return false;
+        }
+        return $context->isDoiTypeEnabled(DoiRepository::TYPE_PUBLICATION);
+    }
+
+    /**
+     * Count published submissions whose current publication has a DOI assigned
+     * in the core `dois` table (OJS 3.4+).
+     *
+     * @param int $contextId
+     * @return int
+     */
+    public function getCountPublishedWithDoi($contextId) {
+        return (int) DB::table('submissions as s')
+            ->join('publications as p', 'p.publication_id', '=', 's.current_publication_id')
+            ->join('dois as d', 'd.doi_id', '=', 'p.doi_id')
+            ->where('s.status', '=', PKPSubmission::STATUS_PUBLISHED)
+            ->where('s.context_id', '=', (int) $contextId)
+            ->whereNotNull('d.doi')
+            ->where('d.doi', '<>', '')
+            ->distinct()
+            ->count('s.submission_id');
     }
 
     public function checkPlugin($category, $pluginName, $contextId) {
