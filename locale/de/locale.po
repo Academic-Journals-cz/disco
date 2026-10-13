@@ -76,7 +76,7 @@ msgid "plugins.generic.disco.settings.oai"
 msgstr "Vertrieb->Zugriff->OAI aktivieren"
 
 msgid "plugins.generic.disco.settings.pluginDOI"
-msgstr "Website-Einstellungen->Plugins->Import/Export-Plugins>DOI"
+msgstr "Vertriebs-Einstellungen->DOIs->Setup->DOIs"
 
 msgid "plugins.generic.disco.settings.pluginDC"
 msgstr "Website-Einstellungen -> Plugins -> Generische Plugins -> Dublin-Core-Plugin"
@@ -868,14 +868,14 @@ msgstr "OJS-Prüfung: Der Name des/der Herausgebers/in ist eingerichtet."
 msgid "plugins.generic.disco.dublinCore.autocheck"
 msgstr "OJS-Prüfung: Das Dublin-Core-Meta-Plugin ist aktiviert."
 
-msgid "plugins.generic.disco.googleScholar.autocheck"
+msgid "plugins.generic.disco.googleSchoolar.autocheck"
 msgstr "OJS-Prüfung: Das Google Scholar-Plugin ist aktiviert."
 
 msgid "plugins.generic.disco.oaiPMHEnabled.autocheck"
 msgstr "OJS-Prüfung: OAI PMH ist aktiviert."
 
 msgid "plugins.generic.disco.usingDOIs.autocheck"
-msgstr "OJS-Prüfung: Das Plugin für öffentliche Identifikatoren (DOI) ist aktiviert."
+msgstr "OJS-Prüfung: DOIs sind für Artikel aktiviert und ein DOI-Präfix ist festgelegt (Vertriebs-Einstellungen → DOIs)."
 
 msgid "plugins.generic.disco.metadataFormatOpenAIRE.autocheck"
 msgstr "OJS-Prüfung: Das OpenAIRE-Standard-Plugin ist aktiviert."
