@@ -1,0 +1,1147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:44-07:00\n"
+"PO-Revision-Date: 2026-10-13T00:00:00+02:00\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "plugins.generic.disco.displayName"
+msgstr "Plugin Discoverability Companion (DISCO)"
+
+msgid "plugins.generic.disco.description"
+msgstr "Ověřte viditelnost svého časopisu podle kritérií agregátorů, indexačních databází a vyhledávačů."
+
+msgid "plugin.generic.disco.page.title"
+msgstr "Popis odznaků OJS Discoverability Companion"
+
+msgid "plugin.generic.disco.page.description"
+msgstr "<p>Odznaky jsou nedílnou součástí pluginu OJS Discoverability Companion (DISCO).</p><p>Discoverability Companion (DISCO) je plugin, který má redaktorům odborných časopisů pomoci zlepšit viditelnost a důvěryhodnost jejich časopisů tím, že je provede technickými a redakčními kritérii, která vyžadují hlavní indexační databáze. Tyto požadavky – často podobné, ale na jednotlivých platformách popsané odlišně – shromažďuje do jednoho přehledného a uživatelsky přívětivého rozhraní. Vyjasněním terminologie a ukázáním společných standardů snižuje DISCO náročnost plnění požadavků a přispívá k lepším výsledkům indexace.</p><p>Nedílnou součástí pluginu je sada odznaků, které se zobrazují v zápatí webu. Tyto odznaky dávají čtenářům i hodnotitelům najevo, že časopis splňuje uznávané standardy kvality, transparentnosti a otevřenosti.</p>"
+
+msgid "plugin.generic.disco.page.description.footer"
+msgstr "Pokud chcete plugin DISCO používat pro svůj časopis, můžete si jej stáhnout z <a href=\"https://github.com/academic-journals-cz/disco\" title=\"Repozitář pluginu DISCO na GitHubu\" target=\"_blank\">GitHubu</a> nebo se obrátit na správce své platformy."
+
+msgid "plugins.generic.disco.less"
+msgstr "Méně informací"
+
+msgid "plugins.generic.disco.more"
+msgstr "Více informací"
+
+msgid "plugins.generic.disco.services"
+msgstr "Služby"
+
+msgid "plugins.generic.disco.settings"
+msgstr "Nastavení v OJS"
+
+msgid "plugins.generic.disco.settings.about"
+msgstr "Nastavení->Časopis->Tiráž->Popis->O časopise"
+
+msgid "plugins.generic.disco.settings.journalTitle"
+msgstr "Nastavení->Časopis->Tiráž->Identita časopisu->Název časopisu"
+
+msgid "plugins.generic.disco.settings.eIssn"
+msgstr "Nastavení->Časopis->Tiráž->Podrobnosti o publikování->Online ISSN"
+
+msgid "plugins.generic.disco.settings.enabled"
+msgstr "Administrace->Hostované časopisy->[časopis]->Upravit->Povolit"
+
+msgid "plugins.generic.disco.settings.ccLicense"
+msgstr "Nastavení->Distribuce->Licence->Licence"
+
+msgid "plugins.generic.disco.settings.ccLicence"
+msgstr "Nastavení->Distribuce->Licence->Licence"
+
+msgid "plugins.generic.disco.settings.authorGuidelines"
+msgstr "Nastavení->Redakční proces->Příspěvek->Průvodce autora->Pokyny pro autory"
+
+msgid "plugins.generic.disco.settings.editorialHistory"
+msgstr "Nastavení->Časopis->Tiráž->Redakční tiráž"
+
+msgid "plugins.generic.disco.settings.contact"
+msgstr "Nastavení->Časopis->Kontakt"
+
+msgid "plugins.generic.disco.settings.publisher"
+msgstr "Nastavení->Časopis->Tiráž->Podrobnosti o publikování"
+
+msgid "plugins.generic.disco.settings.ethics"
+msgstr "Stránku s publikační etikou nejlépe vytvoříte jako <strong>Vlastní stránku</strong> pomocí tlačítka <strong>Přidat položku</strong> v <strong>Nastavení->Webové stránky->Nastavení->Navigační menu</strong>. Zde můžete vytvořit novou stránku s vlastní URL adresou."
+
+msgid "plugins.generic.disco.settings.oai"
+msgstr "Nastavení->Distribuce->Přístup->Povolit OAI"
+
+msgid "plugins.generic.disco.settings.pluginDOI"
+msgstr "Nastavení->Distribuce->DOI->Nastavení->DOI"
+
+msgid "plugins.generic.disco.settings.pluginDC"
+msgstr "Nastavení->Webové stránky->Pluginy->Nainstalované pluginy->Všeobecné pluginy->Indexovací plugin Dublin Core"
+
+msgid "plugins.generic.disco.settings.pluginGS"
+msgstr "Nastavení->Webové stránky->Pluginy->Nainstalované pluginy->Všeobecné pluginy->Indexovací plugin Google Scholar"
+
+msgid "plugins.generic.disco.settings.pluginOpenAIRE"
+msgstr "Nastavení->Webové stránky->Pluginy->Nainstalované pluginy->Všeobecné pluginy->OpenAIRE Standard"
+
+msgid "plugins.generic.disco.settings.plagiarism"
+msgstr "Nastavení->Webové stránky->Pluginy->Nainstalované pluginy->Všeobecné pluginy->Plugin pro detekci plagiátů iThenticate"
+
+msgid "plugins.generic.disco.settings.siteAccess"
+msgstr "Nastavení->Uživatelé a role->Možnosti přístupu ke stránkám->Přístup na stránky"
+
+msgid "plugins.generic.disco.settings.copyrightNote"
+msgstr "Nastavení->Redakční proces->Příspěvek->Průvodce autora->Oznámení o copyrightu"
+
+msgid "plugins.generic.disco.settings.publishingMode"
+msgstr "Nastavení->Distribuce->Přístup->Režim vydávání"
+
+msgid "plugins.generic.disco.settings.copyrightHolder"
+msgstr "Nastavení->Distribuce->Licence->Držitel(é) autorských práv"
+
+msgid "plugins.generic.disco.disco"
+msgstr "Discoverability Companion"
+
+msgid "plugins.generic.disco.description.long"
+msgstr "<p>Pomocí pluginu Discoverability Companion mohou redaktoři projít klíčová kritéria a získat celkový přehled o viditelnosti svého časopisu.</p><p>Požadavky agregátorů, indexačních databází a vyhledávačů jsou rozděleny do několika sekcí. Některá kritéria se kontrolují automaticky, jiná vyžadují rychlou ruční kontrolu pomocí jednoduchého kontrolního seznamu a některá jsou uvedena jako doporučení.</p><p>Plugin vám ukáže, zda by váš časopis mohl být viditelnější, a jaké kroky můžete pro zlepšení podniknout.</p>"
+
+msgid "plugins.generic.disco.diamond.scholarlyJournal"
+msgstr "Odborný časopis"
+
+msgid "plugins.generic.disco.diamond.scholarlyJournal.description"
+msgstr "Časopis by měl být odborným časopisem, který vybírá příspěvky prostřednictvím výslovně popsaného hodnoticího procesu před publikováním a/nebo po něm, v souladu s praxí uznávanou v daném oboru (viz také DOAS <a href=\"https://doi.org/10.58121/Z15S-JY03\">https://doi.org/10.58121/Z15S-JY03</a>)"
+
+msgid "plugins.generic.disco.diamond"
+msgstr "Kritéria diamantového OA"
+
+msgid "plugins.generic.disco.diamond.description"
+msgstr "Kritéria diamantového otevřeného přístupu (Diamond OA) pro časopisy jsou souborem <strong>operativních kritérií</strong>, která umožňují jednoznačně rozdělit časopisy na diamantové OA časopisy (časopisy, které splňují všechna tato kritéria) a ostatní časopisy (časopisy, které nesplňují všechna tato kritéria).<br />Níže je uvedeno 6 kritérií tak, jak je definovala pracovní skupina Craft-OA ve spolupráci s komunitou.<br /><br />"
+
+msgid "plugins.generic.disco.diamond.openLicence"
+msgstr "Otevřený přístup s otevřenými licencemi"
+
+msgid "plugins.generic.disco.diamond.openLicence.description"
+msgstr "Všechny výstupy časopisu by měly být v otevřeném přístupu a nést otevřenou licenci, která je uvedena v metadatech na úrovni článku."
+
+msgid "plugins.generic.disco.diamond.noCharges"
+msgstr "Žádné poplatky"
+
+msgid "plugins.generic.disco.diamond.noCharges.description"
+msgstr "Publikování v časopise není podmíněno zaplacením poplatků jakéhokoli druhu (např. poplatků za zpracování článku nebo členských příspěvků). Časopis by to měl výslovně uvést na svých webových stránkách. Dobrovolné příspěvky autorů a dary jsou povoleny, pokud nejsou podmínkou publikování.<p>Redalyc: Časopis nesmí vybírat poplatky za posouzení ani zpracování článku od autorů ani od institucí.</p>"
+
+msgid "plugins.generic.disco.diamond.openAuthorship"
+msgstr "Otevřený všem autorům"
+
+msgid "plugins.generic.disco.diamond.openAuthorship.description"
+msgstr "<p>Autorství v časopise by nemělo být omezeno na žádný typ afiliace. Kterýkoli autor může zaslat článek, který odpovídá zaměření a rozsahu časopisu.</p>"
+
+msgid "plugins.generic.disco.diamond.ownershipScience"
+msgstr "Ve vlastnictví komunity"
+
+msgid "plugins.generic.disco.diamond.ownershipScience.description"
+msgstr "<p>Titul časopisu musí vlastnit veřejné nebo neziskové organizace (případně jejich součásti), jejichž posláním je provádět nebo podporovat výzkum a vědeckou činnost. Patří mezi ně mimo jiné výzkumné organizace (RPO), organizace financující výzkum (RFO), organizace napojené na výzkumné organizace (univerzitní knihovny, univerzitní nakladatelství, fakulty a katedry), výzkumné ústavy a odborné společnosti. Časopis by měl na svých webových stránkách vysvětlit, kdo je jeho vlastníkem.</p>"
+
+msgid "plugins.generic.disco.appearance"
+msgstr "Online prezentace"
+
+msgid "plugins.generic.disco.appearance.description"
+msgstr "Tato sekce se zaměřuje na online prezentaci a dostupnost časopisu. Splnění klíčových kritérií, jako je funkční web, jasný a přesný název časopisu a kvalitní domovská stránka v angličtině, může výrazně zvýšit jeho viditelnost. Zde posoudíte, zda je celý obsah časopisu dostupný online, ověříte existenci eISSN a zkontrolujete, zda je obsah časopisu v otevřeném přístupu. Tento přehled vám pomůže najít zlepšení, díky nimž bude časopis lépe dohledatelný pro čtenáře i indexační služby."
+
+msgid "plugins.generic.disco.appearance.functionalWebsite"
+msgstr "Funkční web"
+
+msgid "plugins.generic.disco.appearance.functionalWebsite.description"
+msgstr "Informace na webu musí být přesné a informační architektura a navigace musí zajistit snadný přístup k publikovanému obsahu i ke všem dalším prvkům, které časopis definují (např. redakční rada, pokyny pro autory, recenzní řízení, model přístupu apod.). Web časopisu musí jasně odkazovat na web vydavatele a naopak."
+
+msgid "plugins.generic.disco.appearance.journalUrl"
+msgstr "URL časopisu"
+
+msgid "plugins.generic.disco.appearance.journalUrl.description"
+msgstr "<p>Pokud existuje online i tištěné vydání, musíte uvést URL časopisu a informace o tom, jak se online dostat k aktuálnímu plnému textu.</p><p>Časopis musí mít vlastní samostatnou URL adresu a domovskou stránku, která je veřejně přístupná bez omezení.</p>"
+
+msgid "plugins.generic.disco.diamond.eIssn"
+msgstr "Perzistentní identifikace (eISSN)"
+
+msgid "plugins.generic.disco.diamond.eIssn.description"
+msgstr "<p>Časopis musí mít registrované ISSN, které lze ověřit v databázi ISSN (https://portal.issn.org/), a toto ISSN by mělo být jasně a jednotně uváděno na všech platformách časopisu (elektronických i tištěných). Pokud existuje tištěné i elektronické ISSN, musí být uvedena obě.</p><p>ERIH PLUS vyžaduje platné ISSN potvrzené v mezinárodním portálu ISSN (International ISSN Portal). Upozorňujeme, že časopisy s ISSN ve stavu „přiděleno, ale dosud nepotvrzeno“ nebo s volnými/neoficiálními ISSN nebudou zpracovány.</p>"
+
+msgid "plugins.generic.disco.appearance.fullContentAvailable"
+msgstr "Celý publikovaný obsah časopisu je dostupný (je časopis dostupný?) – OA"
+
+msgid "plugins.generic.disco.appearance.fullContentAvailable.description"
+msgstr "Je váš časopis v otevřeném přístupu, tj. je veškerý obsah volně dostupný online bez nutnosti registrace?"
+
+msgid "plugins.generic.disco.appearance.journalTitle"
+msgstr "Název časopisu"
+
+msgid "plugins.generic.disco.appearance.journalTitle.description"
+msgstr "Časopis musí mít jednoznačný název, který odpovídá registrovanému ISSN, deklarovanému zaměření časopisu, publikovanému obsahu a složení komunity (redakční rada a autoři). Název by měl být jednotně zobrazován na úrovni článku, čísla (pokud existuje), časopisu i webu."
+
+msgid "plugins.generic.disco.appearance.metaInformationFilled"
+msgstr ""
+
+msgid "plugins.generic.disco.appearance.metaInformationFilled.description"
+msgstr ""
+
+msgid "plugins.generic.disco.appearance.qualityEnHomepage"
+msgstr "Kvalitní domovská stránka v angličtině"
+
+msgid "plugins.generic.disco.appearance.qualityEnHomepage.description"
+msgstr "Je k dispozici kvalitní domovská stránka časopisu v angličtině"
+
+msgid "plugins.generic.disco.journalDescription"
+msgstr "Popis časopisu"
+
+msgid "plugins.generic.disco.journalDescription.description"
+msgstr "Tato sekce se zaměřuje na to, aby časopis poskytoval základní informace potřebné k doložení jeho důvěryhodnosti, transparentnosti a dostupnosti. Dobře zpracovaný popis zaměření a rozsahu, jasné pokyny pro autory, údaje o redakční radě a kontaktní informace jsou klíčem k budování důvěry čtenářů i přispěvatelů. Viditelnosti a reputaci časopisu v akademické komunitě navíc přispívá doložené dodržování etických standardů, transparentnost recenzního řízení a publikování původních odborných článků."
+
+msgid "plugins.generic.disco.journalDescription.aimsAndScopeDescribed"
+msgstr "Stránka se zaměřením a rozsahem časopisu (aims and scope)"
+
+msgid "plugins.generic.disco.journalDescription.aimsAndScopeDescribed.description"
+msgstr "<p>Časopis musí mít jasně vymezené zaměření a prohlášení o svém účelu, které vystihuje jeho tematické zaměření a soudržnost.</p><p>Publikovaný obsah by měl odpovídat názvu časopisu a deklarovanému zaměření a případně i tématu speciálního čísla, v němž vychází.</p><p>Pro koho je časopis určen? Zvažte svou cílovou skupinu: výzkumníky, odborníky z praxe, studenty nebo konkrétní odbornou komunitu.</p>"
+
+msgid "plugins.generic.disco.journalDescription.authorGuidelinesDescribed"
+msgstr "Pokyny pro autory jsou dobře popsány"
+
+msgid "plugins.generic.disco.journalDescription.authorGuidelinesDescribed.description"
+msgstr "Měly by být k dispozici jasné a úplné pokyny pro autory, nejlépe v angličtině."
+
+msgid "plugins.generic.disco.journalDescription.bibliographicInformation"
+msgstr "Bibliografické údaje v latince"
+
+msgid "plugins.generic.disco.journalDescription.bibliographicInformation.description"
+msgstr "Citované reference, jména a afiliace musí být publikovány v latince, aby umožnily rychlou a přesnou indexaci a snadné porozumění uživatelům po celém světě."
+
+msgid "plugins.generic.disco.journalDescription.editorialBoardPage"
+msgstr "Redakční rada s údaji o afiliaci"
+
+msgid "plugins.generic.disco.journalDescription.editorialBoardPage.description"
+msgstr "<p>Členové redakční rady musí být identifikovatelní a kontaktovatelní.</p><p>Musí být uvedena jména a instituce (afiliace) – včetně země nebo regionu – všech členů redakčního týmu (např. šéfredaktor, členové redakční rady, zástupci redaktora, regionální redaktoři). Totéž platí pro hostující editory speciálních čísel.</p><p>K ověření identity a afiliace lze uvést také perzistentní digitální identifikátory (např. ORCID nebo ResearcherID) nebo odkazy na institucionální profily.</p>"
+
+msgid "plugins.generic.disco.journalDescription.contactDetailsAvailable"
+msgstr "Kontaktní údaje jsou k dispozici"
+
+msgid "plugins.generic.disco.journalDescription.contactDetailsAvailable.description"
+msgstr "<p>OJS kontroluje, zda byly vyplněny kontaktní údaje.</p><p>Musí být uvedeny kontaktní informace na klíčové redakční a produkční role časopisu a měla by být k dispozici veřejně dostupná e-mailová adresa.</p>"
+
+msgid "plugins.generic.disco.journalDescription.editorialBoardPageExists"
+msgstr "Je v OJS vyplněno pole redakční rady?"
+
+msgid "plugins.generic.disco.journalDescription.editorialBoardPageExists.description"
+msgstr "OJS kontroluje, zda v OJS existuje stránka redakční rady."
+
+msgid "plugins.generic.disco.journalDescription.journalPublisherNameAvailable"
+msgstr "Název vydavatele časopisu je uveden na webu"
+
+msgid "plugins.generic.disco.journalDescription.journalPublisherNameAvailable.description"
+msgstr "OJS kontroluje, zda je vyplněn název vydavatele časopisu.<br />Vydavatel musí být jasně uveden a musí být uvedena ověřitelná fyzická adresa (nikoli P.O. Box) jeho kanceláří. Pokud je časopis přidružen k odborné společnosti nebo je v jejím vlastnictví, mělo by to být uvedeno spolu s ověřitelnými kontaktními údaji."
+
+msgid "plugins.generic.disco.journalDescription.peerReviewDescribed"
+msgstr "Popsaný proces recenzního řízení"
+
+msgid "plugins.generic.disco.journalDescription.peerReviewDescribed.description"
+msgstr "Časopis musí poskytovat snadno dostupné a jasné prohlášení o tom, že se zavazuje k recenznímu řízení a/nebo redakčnímu dohledu nad veškerým publikovaným obsahem. Primární výzkumné články musí projít externím recenzním řízením.<br />Publikovaný obsah musí odrážet odpovídající a účinné recenzní řízení a/nebo redakční dohled. Mezi známky nedostatečného recenzního řízení patří mimo jiné články postrádající odbornou důkladnost či vědeckou validitu, články mimo zaměření časopisu nebo irelevantní citace.<br />ERIH PLUS vyžaduje výslovný popis postupů časopisu pro externí/nezávislé recenzní řízení. Web časopisu musí přinejmenším popisovat, jakým způsobem proces zajišťuje nezávislost recenzentů na autorech."
+
+msgid "plugins.generic.disco.journalDescription.publicationEthicsDescribed"
+msgstr "Publikační etika je dobře popsána"
+
+msgid "plugins.generic.disco.journalDescription.publicationEthicsDescribed.description"
+msgstr "Prohlášení o publikační etice a o postupu při publikačních pochybeních musí být veřejně dostupné.<br />Časopis musí transparentně uvádět své etické požadavky na autory a publikovaná díla. Pokud časopis podporuje a uplatňuje zásady jedné či více externích organizací (WAME, COPE, Helsinská deklarace atd.), měl by uvést buď plné znění těchto zásad s řádným uvedením zdroje, nebo funkční odkaz na jejich plné znění."
+
+msgid "plugins.generic.disco.journalDescription.scholarlyArticles"
+msgstr "Původní odborné články"
+
+msgid "plugins.generic.disco.journalDescription.scholarlyArticles.description"
+msgstr "<p>Časopis by měl publikovat především původní odborné práce.</p><p>Akademická úroveň výzkumu by měla odpovídat publiku na úrovni postgraduálních studentů, postdoktorandů a/nebo odborných výzkumníků.</p><p>Požadavek Redalyc: V každém čísle musí alespoň 75 % příspěvků tvořit původní výsledky výzkumu nebo jiné významné, nové příspěvky relevantní pro konkrétní obor časopisu. (BCA)</p>"
+
+msgid "plugins.generic.disco.lpGalleys"
+msgstr "Vstupní stránky / sazebnice"
+
+msgid "plugins.generic.disco.lpGalleys.description"
+msgstr "Tato kategorie zajišťuje, aby byl každý článek a jeho související obsah prezentován strukturovaně a přístupně. Mezi klíčové prvky patří úplné bibliografické údaje, jasný přístup k plnému textu, DOI zobrazené jako URL, řádné citace a jedinečné URL adresy článků a jejich sazebnic, které zlepšují dohledatelnost a přesnost citování."
+
+msgid "plugins.generic.disco.lpGalleys.dataInJats"
+msgstr ""
+
+msgid "plugins.generic.disco.lpGalleys.dataInJats.description"
+msgstr ""
+
+msgid "plugins.generic.disco.lpGalleys.lpDoi"
+msgstr "DOI je zobrazeno jako URL"
+
+msgid "plugins.generic.disco.lpGalleys.lpDoi.description"
+msgstr "Čtenáři tak mohou při citování odkaz DOI snadno zkopírovat a vložit. (Více o <a href=\"https://www.crossref.org/display-guidelines\" target=\"_blank\">pravidlech pro zobrazování DOI</a> organizace Crossref)"
+
+msgid "plugins.generic.disco.lpGalleys.linkToFulltext"
+msgstr "Způsob přístupu k plnému textu obsahu"
+
+msgid "plugins.generic.disco.lpGalleys.linkToFulltext.description"
+msgstr "Plný text může být za přihlášením nebo za platební bránou (paywall), pokud je vstupní stránka (landing page) přístupná všem. DOI může odkazovat přímo na stránku s plným textem v HTML; pokud tato stránka obsahuje potřebné informace (viz výše), samostatná vstupní stránka není nutná. Nedoporučuje se však odkazovat přímo na PDF, protože kliknutí na DOI pak spustí automatické stahování."
+
+msgid "plugins.generic.disco.lpGalleys.references"
+msgstr "Řádné citace literatury (reference na vstupních stránkách)"
+
+msgid "plugins.generic.disco.lpGalleys.references.description"
+msgstr "Od článků se očekává, že budou řádně odkazovat na relevantní literaturu ke svému tématu."
+
+msgid "plugins.generic.disco.lpGalleys.fullBio"
+msgstr "Úplné bibliografické údaje"
+
+msgid "plugins.generic.disco.lpGalleys.fullBio.description"
+msgstr "Uživatelé si tak mohou ověřit, že DOI vede na správný dokument."
+
+msgid "plugins.generic.disco.lpGalleys.uniqueUrlArticles"
+msgstr "Jedinečná URL pro každý článek (vstupní stránku) a každou sazebnici"
+
+msgid "plugins.generic.disco.lpGalleys.uniqueUrlArticles.description"
+msgstr "Každý článek musí být dostupný jako úplný samostatný plný text s jednou jedinečnou URL adresou na článek (minimálně HTML nebo PDF).<br/>Účinná indexace závisí na tom, aby měl každý článek vlastní samostatnou URL adresu."
+
+msgid "plugins.generic.disco.metadataRequirements"
+msgstr "Požadavky na metadata"
+
+msgid "plugins.generic.disco.metadataRequirements.description"
+msgstr "Tato kategorie se zaměřuje na kvalitu a úplnost metadat s cílem zlepšit dohledatelnost a interoperabilitu časopisu. Mezi klíčové aspekty patří uvedení afiliací autorů, poskytování metadat ve strojově čitelných formátech pomocí meta tagů, využití protokolu OAI-PMH, přidělování DOI, uvádění názvů a abstraktů v angličtině a správné označení referencí pro přesnou indexaci a citování."
+
+msgid "plugins.generic.disco.metadataRequirements.metadataFormatOpenAIRE"
+msgstr "OpenAIRE metadataPrefix"
+
+msgid "plugins.generic.disco.metadataRequirements.metadataFormatOpenAIRE.description"
+msgstr "OpenAIRE očekává metadata kódovaná ve formátu definovaném v aplikačním profilu OpenAIRE (OpenAIRE Application Profile). Doporučený metadataPrefix je oai_openaire. Informace o použití jednotlivých vlastností najdete v sekci <a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/application_profile.html#application-profile\" target=\"_blank\">Application Profile Overview.</a><p>V OJS můžete použít <a href=\"https://github.com/academic-journals-cz/openAIREstandard\" target=\"_blank\">plugin openAIREstandard</a></p>"
+
+msgid "plugins.generic.disco.metadataRequirements.markingReferences"
+msgstr "Označení referencí"
+
+msgid "plugins.generic.disco.metadataRequirements.markingReferences.description"
+msgstr "Část článku, která obsahuje odkazy na jiná díla, označte standardním nadpisem, například „References“ nebo „Bibliography“, na samostatném řádku. Jednotlivé reference v této části by měly být v PDF číslovány „1. – 2. – 3.“ nebo „[1] – [2] – [3]“, případně v HTML umístěny v seznamu „&lt;ol&gt;“. Text každé reference musí být formální bibliografickou citací v běžně používaném formátu, bez volného komentáře."
+
+msgid "plugins.generic.disco.metadataRequirements.authorsAffiliations"
+msgstr "Jsou uvedeny afiliace autorů"
+
+msgid "plugins.generic.disco.metadataRequirements.authorsAffiliations.description"
+msgstr "Autoři všech odborných prací musí být přesně identifikováni. Je nutné uvést jména a instituce (afiliace) – včetně země/regionu – všech autorů. K upřesnění identity a afiliace autorů lze uvést perzistentní digitální identifikátory (např. ResearcherID nebo ORCID) nebo odkazy na institucionální profily.</p><p>ERIH PLUS vyžaduje u všech odborných článků z posledních dvou let publikování údaje o afiliaci autorů, tj. plné názvy příslušných univerzit nebo jiných nezávislých výzkumných institucí. ERIH PLUS také doporučuje uvádět adresy autorů (e-mailové nebo poštovní).</p>"
+
+msgid "plugins.generic.disco.metadataRequirements.machineReadableMetadataFormat"
+msgstr "Metadata ve strojově čitelném formátu – meta tagy"
+
+msgid "plugins.generic.disco.metadataRequirements.machineReadableMetadataFormat.description"
+msgstr "Pokud používáte software pro správu repozitáře nebo časopisu, např. Eprints, DSpace, Digital Commons nebo OJS, nastavte jej tak, aby exportoval bibliografické údaje v HTML tazích „&lt;meta&gt;“. Google Scholar podporuje tagy Highwire Press (např. citation_title), Eprints (např. eprints.title), BE Press (např. bepress_citation_title) a PRISM (např. prism.title). Tagy Dublin Core (např. DC.title) používejte jen jako poslední možnost – pro časopisecké články fungují špatně, protože Dublin Core nemá jednoznačná pole pro název časopisu, ročník, číslo a stránky. Přítomnost těchto tagů ověříte tak, že otevřete několik stránek s abstrakty a zobrazíte jejich zdrojový kód HTML."
+
+msgid "plugins.generic.disco.metadataRequirements.metadataInDCFormat"
+msgstr ""
+
+msgid "plugins.generic.disco.metadataRequirements.metadataInDCFormat.description"
+msgstr ""
+
+msgid "plugins.generic.disco.metadataRequirements.oaiPMHEnabled"
+msgstr "Využití protokolu OAI-PMH"
+
+msgid "plugins.generic.disco.metadataRequirements.oaiPMHEnabled.description"
+msgstr "Poskytovatelé mohou nechat svůj obsah indexovat v GoTriple třemi způsoby: – dodržením doporučení GoTriple pro technické nastavení a datový model, tj. použitím protokolu OAI-PMH a metadatového standardu DC. </p><p>Pro OpenAIRE je to jediný možný způsob, jak v něm metadata registrovat a indexovat. Pro „OpenAIRE Guidelines for Literature, institutional, and thematic Repositories v 4.0“ musíte použít <em>metadataPrefix</em> <strong>oai_openaire</strong>. Můžete použít plugin pro OJS: <a href='https://github.com/academic-journals-cz/openAIREstandard' target='_blank'>https://github.com/academic-journals-cz/openAIREstandard</a></p>"
+
+msgid "plugins.generic.disco.metadataRequirements.systemLanguageCheck"
+msgstr ""
+
+msgid "plugins.generic.disco.metadataRequirements.systemLanguageCheck.description"
+msgstr ""
+
+msgid "plugins.generic.disco.metadataRequirements.usingDOIs"
+msgstr "Využití DOI"
+
+msgid "plugins.generic.disco.metadataRequirements.usingDOIs.description"
+msgstr "Má časopis digitální identifikátor (např. DOI) nebo je členem Crossref?"
+
+msgid "plugins.generic.disco.metadataRequirements.titlesAbstractsInEnglish"
+msgstr "Názvy a abstrakty v angličtině"
+
+msgid "plugins.generic.disco.metadataRequirements.titlesAbstractsInEnglish.description"
+msgstr "Bez ohledu na jazyk hlavního textu publikovaného obsahu musí časopis poskytovat přesný a srozumitelný anglický překlad názvů všech článků. Odborné články musí mít abstrakty a tyto abstrakty musí být přeloženy do angličtiny.<p>Srozumitelnost abstraktů.</p><p>ERIH PLUS vyžaduje, aby všechny původní články byly opatřeny abstrakty v angličtině. Protože tým ERIH PLUS potřebuje k hodnocení časopisu přístup k abstraktům, měly by být dostupné online.</p>"
+
+msgid "plugins.generic.disco.metadataQuality"
+msgstr "Kvalita metadat"
+
+msgid "plugins.generic.disco.metadataQuality.description"
+msgstr "Přehled požadavků na metadata pro různé databáze a služby.<br />Tato stránka obsahuje seznam klíčových metadatových polí a vysvětluje jejich roli při zvyšování viditelnosti a šancí na úspěšnou indexaci. Slouží jako referenční příručka, která uživatelům pomůže pochopit, které metadatové prvky jsou pro konkrétní databáze zásadní a jak je efektivně používat. "
+
+msgid "plugins.generic.disco.metadataQuality.accessRights"
+msgstr "Přístupová práva (Access Rights)"
+
+msgid "plugins.generic.disco.metadataQuality.accessRights.description"
+msgstr "Informace o právech nebo režimu, v němž lze ke zdroji přistupovat. <p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_accessrights.html#dci-accessrights\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_accessrights.html#dci-accessrights</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.alternateIdentifier"
+msgstr "Alternativní identifikátor (Alternate Identifier)"
+
+msgid "plugins.generic.disco.metadataQuality.alternateIdentifier.description"
+msgstr "Obvykle perzistentní identifikátor (např. DOI, Handle, PURL)<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_alternativeidentifier.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_alternativeidentifier.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.articleEndPage"
+msgstr "Koncová stránka článku / Citation End Page"
+
+msgid "plugins.generic.disco.metadataQuality.articleEndPage.description"
+msgstr "OpenAIRE: <strong>Doporučené / volitelné</strong><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationendpage.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationendpage.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.articleStartPage"
+msgstr "Počáteční stránka článku / Citation Start Page"
+
+msgid "plugins.generic.disco.metadataQuality.articleStartPage.description"
+msgstr "OpenAIRE: <strong>Doporučené / volitelné</strong><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationstartpage.html\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationstartpage.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.audience"
+msgstr "Cílová skupina (Audience)"
+
+msgid "plugins.generic.disco.metadataQuality.audience.description"
+msgstr "Pro koho je zdroj určen nebo užitečný? <p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_audience.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_audience.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.authors"
+msgstr "Tvůrci / autoři (Creators)"
+
+msgid "plugins.generic.disco.metadataQuality.authors.description"
+msgstr "Autoři publikace jsou uvedeni v pořadí podle priority. Může jít o jméno osoby nebo o název korporace/instituce.<p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_creator.html#dci-creator</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.contributors"
+msgstr "Přispěvatel (Contributor)"
+
+msgid "plugins.generic.disco.metadataQuality.contributors.description"
+msgstr "Instituce nebo osoba odpovědná za shromažďování, správu, distribuci nebo jiný příspěvek k vývoji zdroje.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_contributor.html#dci-contributor\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_contributor.html#dci-contributor</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.coverage"
+msgstr "Pokrytí (Coverage)"
+
+msgid "plugins.generic.disco.metadataQuality.coverage.description"
+msgstr "Rozsah nebo záběr obsahu zdroje. Pokrytí obvykle zahrnuje časové období (označení období, datum nebo rozmezí dat) nebo jurisdikci (např. pojmenovaný správní celek). <p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_coverage.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_coverage.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.embargoPeriodDate"
+msgstr "Datum embarga (Embargo Period Date)"
+
+msgid "plugins.generic.disco.metadataQuality.embargoPeriodDate.description"
+msgstr "Data relevantní pro popis období embarga.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_embargoenddate.html#dci-dateembargo\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_embargoenddate.html#dci-dateembargo</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.fileLocation"
+msgstr "Umístění souboru (File Location)"
+
+msgid "plugins.generic.disco.metadataQuality.fileLocation.description"
+msgstr "Jednoznačný odkaz na soubory (např. plný text), k nimž se zdroj vztahuje.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_filelocation.html#aire-file\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_filelocation.html#aire-file</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.format"
+msgstr "Formát (Format)"
+
+msgid "plugins.generic.disco.metadataQuality.format.description"
+msgstr "Formát obsahu vyjádřený pomocí typů MIME. <p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_format.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_format.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.fundingReferences"
+msgstr "Údaje o financování (Funding Reference)"
+
+msgid "plugins.generic.disco.metadataQuality.fundingReferences.description"
+msgstr "Informace o finanční podpoře (financování) registrovaného zdroje.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_projectid.html#aire-fundingreference\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_projectid.html#aire-fundingreference</a></p> <p>V OJS byste měli použít <a href=\"https://github.com/ajnyga/funding\" target=\"_blank\">plugin Funding</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.geoLocation"
+msgstr "Geografická poloha (Geo Location)"
+
+msgid "plugins.generic.disco.metadataQuality.geoLocation.description"
+msgstr "Geografická oblast nebo pojmenované místo, kde byla data shromážděna nebo které data popisují.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_geolocation.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_geolocation.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.issueNumber"
+msgstr "Číslo / Citation Issue"
+
+msgid "plugins.generic.disco.metadataQuality.issueNumber.description"
+msgstr "OpenAIRE: <strong>Doporučené / volitelné</strong><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationissue.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationissue.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.issueVolume"
+msgstr "Ročník / Citation Volume"
+
+msgid "plugins.generic.disco.metadataQuality.issueVolume.description"
+msgstr "Tato vlastnost je považována za součást bibliografické citace. <p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationvolume.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationvolume.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.journalTitle"
+msgstr "Název časopisu / Citation Title"
+
+msgid "plugins.generic.disco.metadataQuality.journalTitle.description"
+msgstr "OpenAIRE: <strong>Doporučené / volitelné</strong><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationtitle.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_citationtitle.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.language"
+msgstr "Jazyk (Language)"
+
+msgid "plugins.generic.disco.metadataQuality.language.description"
+msgstr "Jazyk intelektuálního obsahu zdroje.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_language.html#dc-language\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_language.html#dc-language</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.licenseCondition"
+msgstr "Licenční podmínky (License Condition)"
+
+msgid "plugins.generic.disco.metadataQuality.licenseCondition.description"
+msgstr "Informace o licenčních právech ke zdroji a nad ním.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_licensecondition.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_licensecondition.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.publicationDate"
+msgstr "Datum publikace (Publication Date)"
+
+msgid "plugins.generic.disco.metadataQuality.publicationDate.description"
+msgstr "Datum se obvykle vztahuje k vytvoření nebo zpřístupnění zdroje. Doporučeným postupem pro zápis data je profil normy ISO 8601 [W3CDTF] ve formátu RRRR-MM-DD.<p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publicationdate.html#dci-datepublication\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publicationdate.html#dci-datepublication</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.publisher"
+msgstr "Vydavatel (Publisher)"
+
+msgid "plugins.generic.disco.metadataQuality.publisher.description"
+msgstr "Subjekt odpovědný za zpřístupnění zdroje. Vydavatelem může být například osoba, organizace nebo služba. K označení vydavatele by se obvykle měl použít jeho název.<p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publisher.html#dc-publisher</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.relatedIdentifier"
+msgstr "Související identifikátor (Related Identifier)"
+
+msgid "plugins.generic.disco.metadataQuality.relatedIdentifier.description"
+msgstr "Identifikátor souvisejícího zdroje, odlišný od primárního identifikátoru registrovaného zdroje.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_relatedidentifier.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_relatedidentifier.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.resourceIdentifier"
+msgstr "Identifikátor zdroje (Resource Identifier)"
+
+msgid "plugins.generic.disco.metadataQuality.resourceIdentifier.description"
+msgstr "Obvykle stabilní, perzistentní URL. <p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_resourceidentifier.html#dci-identifier\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_resourceidentifier.html#dci-identifier</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.resourceType"
+msgstr "Typ zdroje (Resource Type)"
+
+msgid "plugins.generic.disco.metadataQuality.resourceType.description"
+msgstr "Určuje, jaký typ vědeckého výstupu zdroj představuje. Popisuje žánr nebo formu zdroje. <p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publicationtype.html#aire-resourcetype\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_publicationtype.html#aire-resourcetype</a></p><p>V OJS byste měli použít <a href=\"https://github.com/academic-journals-cz/openAIREstandard\" target=\"_blank\">plugin openAIREstandard</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.resourceVersion"
+msgstr "Verze zdroje (Resource Version)"
+
+msgid "plugins.generic.disco.metadataQuality.resourceVersion.description"
+msgstr "Stav časopiseckého článku v procesu publikování.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_resourceversion.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_resourceversion.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.size"
+msgstr "Rozsah (Size)"
+
+msgid "plugins.generic.disco.metadataQuality.size.description"
+msgstr "Počet stran nebo velikost souboru.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_size.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_size.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.source"
+msgstr "Zdroj (Source)"
+
+msgid "plugins.generic.disco.metadataQuality.source.description"
+msgstr "Odkaz na zdroj, z něhož je tento zdroj odvozen.<p>OpenAIRE: <strong>Doporučené / volitelné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_source.html\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_source.html</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.subject"
+msgstr "Předmět (Subject)"
+
+msgid "plugins.generic.disco.metadataQuality.subject.description"
+msgstr "Předmět, klíčové slovo, klasifikační kód nebo klíčová fráze popisující zdroj. <p>OpenAIRE: <strong>Povinné, pokud je relevantní</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_subject.html#dci-subject\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_subject.html#dci-subject</a> </p>"
+
+msgid "plugins.generic.disco.metadataQuality.title"
+msgstr "Název (Title)"
+
+msgid "plugins.generic.disco.metadataQuality.title.description"
+msgstr "Název, pod kterým je zdroj znám. <p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_title.html#dci-title\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_title.html#dci-title</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.abstract"
+msgstr "Popis (Description)"
+
+msgid "plugins.generic.disco.metadataQuality.abstract.description"
+msgstr "Stručný popis obsahu v prostém textu. <p>OpenAIRE: <strong>Povinné</strong></p><p><a href=\"https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_description.html#dc-description\" target=\"_blank\">https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/field_description.html#dc-description</a></p>"
+
+msgid "plugins.generic.disco.metadataQuality.title.countCheck"
+msgstr "Počet článků s vyplněným názvem v primárním jazyce (lokalizaci) časopisu."
+
+msgid "plugins.generic.disco.metadataQuality.authors.countCheck"
+msgstr "Počet článků, u nichž má alespoň jeden autor uvedenou afiliaci."
+
+msgid "plugins.generic.disco.metadataQuality.publicationDate.countCheck"
+msgstr "Počet článků s vyplněným datem publikace."
+
+msgid "plugins.generic.disco.metadataQuality.resourceType.countCheck"
+msgstr "Počet článků v sekcích, které mají vyplněné pole typu zdroje"
+
+msgid "plugins.generic.disco.metadataQuality.abstract.countCheck"
+msgstr "Počet článků s vyplněným abstraktem v primárním jazyce (lokalizaci) časopisu."
+
+msgid "plugins.generic.disco.metadataQuality.embargoPeriodDate.countCheck"
+msgstr "Počet článků publikovaných v číslech s obdobím embarga, tj. článků, které nejsou okamžitě v otevřeném přístupu."
+
+msgid "plugins.generic.disco.metadataQuality.language.countCheck"
+msgstr "Počet článků s vyplněnou primární lokalizací."
+
+msgid "plugins.generic.disco.metadataQuality.alternateIdentifier.countCheck"
+msgstr "Počet článků s přiřazeným DOI."
+
+msgid "plugins.generic.disco.metadataQuality.source.countCheck"
+msgstr "Počet článků s vyplněným polem zdroje v primárním jazyce (lokalizaci) časopisu."
+
+msgid "plugins.generic.disco.metadataQuality.licenseCondition.countCheck"
+msgstr "Počet článků s vyplněným polem typu licence."
+
+msgid "plugins.generic.disco.metadataQuality.coverage.countCheck"
+msgstr "Počet článků s vyplněnými informacemi o pokrytí (v OJS pole „Dosah“) v primárním jazyce (lokalizaci) časopisu."
+
+msgid "plugins.generic.disco.metadataQuality.size.countCheck"
+msgstr "Počet článků s vyplněnými stránkami."
+
+msgid "plugins.generic.disco.journalPolicy"
+msgstr "Politika časopisu"
+
+msgid "plugins.generic.disco.journalPolicy.description"
+msgstr "Tato kategorie zajišťuje transparentnost a dostupnost tím, že popisuje politiku časopisu. Zahrnuje informace o praxi v oblasti poplatků APC, politice otevřeného přístupu (včetně licencí Creative Commons nebo obdobných), podmínkách autorských práv a o absenci embarga. Ověřuje také, zda mají uživatelé k obsahu volný přístup bez registrace, a zdůrazňuje tak inkluzivitu a otevřenost."
+
+msgid "plugins.generic.disco.journalPolicy.apcDescribed"
+msgstr "Popis politiky poplatků APC"
+
+msgid "plugins.generic.disco.journalPolicy.apcDescribed.description"
+msgstr "Politika poplatků by měla být na webu jasně popsána bez ohledu na to, zda časopis poplatky APC vybírá, či nikoli.</p>"
+
+msgid "plugins.generic.disco.journalPolicy.noRegistrationNeed"
+msgstr "Uživatelé se nemusí registrovat"
+
+msgid "plugins.generic.disco.journalPolicy.noRegistrationNeed.description"
+msgstr "Uživatelé nemusí být k čtení obsahu časopisu registrováni."
+
+msgid "plugins.generic.disco.journalPolicy.oaPolicyDescribed"
+msgstr "Popsaná politika otevřeného přístupu (CC nebo obdobná)"
+
+msgid "plugins.generic.disco.journalPolicy.oaPolicyDescribed.description"
+msgstr "Časopisy, u nichž držitel autorských práv k odbornému dílu uděluje ostatním užívací práva prostřednictvím otevřené licence (Creative Commons nebo obdobné). To umožňuje okamžitý volný přístup k dílu a dovoluje každému uživateli plné texty článků číst, stahovat, kopírovat, šířit, tisknout, prohledávat nebo na ně odkazovat, procházet je za účelem indexace, předávat je jako data softwaru nebo je používat k jakémukoli jinému zákonnému účelu.<p>REDALYC: Časopis musí umožňovat čtení, stahování, kopírování, šíření, tisk a prohledávání plných textů svých článků i odkazování na ně.</p><p>Licenční podmínky pro užití a další užití publikovaného obsahu musí být na webu jasně uvedeny.<br/>DOAJ k tomuto účelu doporučuje licence Creative Commons.<br />Pokud se licence Creative Commons nepoužívají, měly by platit obdobné podmínky. (Na jasné uvedení těchto podmínek je pak třeba dbát zvlášť pečlivě.)<br />Doporučuje se, aby informace o licenci byly zobrazeny nebo vloženy v plných textech článků; pro zařazení do DOAJ to však není nutné.</p><p>ERIH Plus: Jaký je status otevřeného přístupu časopisu?</p>"
+
+msgid "plugins.generic.disco.journalPolicy.copyrightTerms"
+msgstr "Popsané podmínky autorských práv"
+
+msgid "plugins.generic.disco.journalPolicy.copyrightTerms.description"
+msgstr "Podmínky autorských práv vztahující se na publikovaný obsah musí být jasně uvedeny a oddělené od podmínek vztahujících se k webu.<br />Podmínky autorských práv nesmějí být v rozporu s licenčními podmínkami ani s podmínkami politiky otevřeného přístupu.<br />Formulace „All rights reserved“ (Všechna práva vyhrazena) není pro obsah v otevřeném přístupu nikdy vhodná.<br /><a href=\"https://doaj.org/apply/copyright-and-licensing/\" target=\"_blank\">Více o autorských právech</a>"
+
+msgid "plugins.generic.disco.journalPolicy.noEmbargoPeriod"
+msgstr "Bez embarga"
+
+msgid "plugins.generic.disco.journalPolicy.noEmbargoPeriod.description"
+msgstr "Plný text veškerého obsahu musí být bez prodlení dostupný zdarma a v otevřeném přístupu."
+
+msgid "plugins.generic.disco.regularity"
+msgstr "Pravidelnost"
+
+msgid "plugins.generic.disco.regularity.description"
+msgstr "Tato kategorie hodnotí stálost a spolehlivost časopisu při publikování. Zohledňuje pravidelnou periodicitu, doloženou historii publikování a dodržování harmonogramu vydávání nebo stanoveného objemu publikací, což zajišťuje spolehlivé působení časopisu v akademické komunitě."
+
+msgid "plugins.generic.disco.regularity.periodicity"
+msgstr "Pravidelná periodicita"
+
+msgid "plugins.generic.disco.regularity.periodicity.description"
+msgstr "Časopis musí vycházet podle pravidelného harmonogramu, bez zpoždění a přerušení. <p>REDALYC: Jednotlivá čísla musí vycházet včas podle harmonogramu vydávání (měsíčně, jednou za dva měsíce, čtvrtletně). U periodika bude znevýhodněním, pokud déle než tři měsíce nezveřejní online žádné nové články.</p>"
+
+msgid "plugins.generic.disco.regularity.publishingHistory"
+msgstr "Historie publikování"
+
+msgid "plugins.generic.disco.regularity.publishingHistory.description"
+msgstr "DOAJ: Časopis musí doložit historii publikování delší než jeden rok nebo musí mít publikováno alespoň deset výzkumných článků v otevřeném přístupu.<p>ERIH Plus: Má časopis historii publikování alespoň dva roky?</p><p>PubMed: NLM očekává od vydavatelů alespoň dvouletou historii kvalitního odborného publikování v oblasti věd o živé přírodě (life sciences). / V konečné podobě musí být publikováno minimálně 25 recenzovaných článků (např. původní výzkumné nebo přehledové články, klinické kazuistiky).</p><p>Redalyc: Časopis musí být aktivní alespoň dva roky. Čísla vydaná v posledních dvou letech musí být viditelná na jeho platformě. Pro účely hodnocení se berou v úvahu pouze řádná čísla vydaná včas.</p>"
+
+msgid "plugins.generic.disco.regularity.timeliness"
+msgstr "Včasnost a/nebo objem publikací"
+
+msgid "plugins.generic.disco.regularity.timeliness.description"
+msgstr "Časopis musí uvést, zda má stanovenou periodicitu, nebo zda vychází nepravidelně či průběžně. Časopis musí deklarovaný harmonogram dodržovat. Objem odborných článků publikovaných za rok by měl dokládat, že časopis vzbuzuje v příslušné odborné komunitě dostatečný zájem, aby byl udržitelný. Časopis musí mít také publikováno dostatek obsahu napříč celým svým zaměřením, aby jej bylo možné komplexně zhodnotit."
+
+msgid "plugins.generic.disco.generalRecommendations"
+msgstr "Obecná doporučení"
+
+msgid "plugins.generic.disco.generalRecommendations.description"
+msgstr "Tato kategorie zdůrazňuje osvědčené postupy pro udržení vysoké kvality časopisu. Zahrnuje srozumitelnost jazyka, dodržování standardů komunity, pravdivost publikovaných prohlášení, transparentnost ohledně grantové podpory, používání spolehlivých redakčních systémů (např. OJS, Lodel) a zavedení kontroly plagiátorství pro zajištění akademické integrity."
+
+msgid "plugins.generic.disco.generalRecommendations.accesibility"
+msgstr ""
+
+msgid "plugins.generic.disco.generalRecommendations.accesibility.description"
+msgstr ""
+
+msgid "plugins.generic.disco.generalRecommendations.clarityOfLanguage"
+msgstr "Srozumitelnost jazyka"
+
+msgid "plugins.generic.disco.generalRecommendations.clarityOfLanguage.description"
+msgstr "Názvy, abstrakty a veškerý další publikovaný text v angličtině musí být jazykově jasné a srozumitelné pro globální publikum."
+
+msgid "plugins.generic.disco.generalRecommendations.communityStandardsAdherence"
+msgstr "Dodržování standardů komunity"
+
+msgid "plugins.generic.disco.generalRecommendations.communityStandardsAdherence.description"
+msgstr "Redakční politika je v souladu s uznávanými osvědčenými postupy, jako jsou COPE Core Practices, a/nebo se zásadami národních a mezinárodních organizací a odborných společností, které ve svých komunitách prosazují principy integrity výzkumu. Články v časopise odpovídají osvědčeným postupům uznávaným v daném oboru (například zavedeným standardům názvosloví organismů nebo chemického názvosloví)."
+
+msgid "plugins.generic.disco.generalRecommendations.grantSupportDetails"
+msgstr "Údaje o grantové podpoře"
+
+msgid "plugins.generic.disco.generalRecommendations.grantSupportDetails.description"
+msgstr "V oborech, kde je grantová podpora běžná nebo vyžadovaná, se doporučuje uvádět odpovídající poděkování za zdroj financování."
+
+msgid "plugins.generic.disco.generalRecommendations.statementsValidity"
+msgstr "Pravdivost prohlášení"
+
+msgid "plugins.generic.disco.generalRecommendations.statementsValidity.description"
+msgstr "Publikovaný obsah by měl dokládat dodržování zásad, které časopis deklaruje. Všechny informace zobrazené na webu časopisu by měly být přesné a aktuální."
+
+msgid "plugins.generic.disco.generalRecommendations.internalSystemInUse"
+msgstr "Používaný redakční systém (OJS / Lodel / …)"
+
+msgid "plugins.generic.disco.generalRecommendations.internalSystemInUse.description"
+msgstr "Zajistí, že řada požadavků bude splněna automaticky."
+
+msgid "plugins.generic.disco.generalRecommendations.plagiarismCheck"
+msgstr "Zavedená kontrola plagiátorství"
+
+msgid "plugins.generic.disco.generalRecommendations.plagiarismCheck.description"
+msgstr "Použití služby pro kontrolu plagiátorství je velmi doporučeno, ale pro zařazení do DOAJ ani do jiných služeb není vyžadováno."
+
+msgid "plugins.generic.disco.impactRecommendations"
+msgstr "Doporučení pro zvýšení dopadu"
+
+msgid "plugins.generic.disco.impactRecommendations.description"
+msgstr "Tato kategorie se zaměřuje na posílení akademického vlivu a reputace časopisu. Zdůrazňuje geografickou rozmanitost autorů a redakční rady, analyzuje citační ukazatele autorů i členů redakční rady, posuzuje citovanost článků časopisu a zdůrazňuje význam akademického přínosu obsahu pro daný obor."
+
+msgid "plugins.generic.disco.impactRecommendations.authorsDiversity"
+msgstr "Rozmanitost geografického původu autorů"
+
+msgid "plugins.generic.disco.impactRecommendations.authorsDiversity.description"
+msgstr "Autoři musí mít afiliace, geografickou rozmanitost a publikační záznamy, které dokládají jejich zapojení do odborné komunity odpovídající deklarovanému zaměření časopisu.<p>DOAJ: Podíl publikovaných výzkumných článků, u nichž je alespoň jeden z autorů redaktorem, členem redakční rady nebo recenzentem, nesmí v žádném ze dvou posledních čísel překročit 25 %.</p><p>ERIH PLUS vyžaduje, aby nejvýše dvě třetiny autorů publikujících v časopise pocházely ze stejné instituce. Autorství časopisu se posuzuje podle posledních dvou let publikování.</p><p>REDALYC: Alespoň 70 % všech odborných prací publikovaných v každém čísle musí tvořit příspěvky externí vůči vydávající instituci (s alespoň jedním externím autorem).</p><p>Endogenní publikování by mělo být minimalizováno.</p>"
+
+msgid "plugins.generic.disco.impactRecommendations.citedAuthors"
+msgstr "Citační analýza autorů"
+
+msgid "plugins.generic.disco.impactRecommendations.citedAuthors.description"
+msgstr "Většina autorů by měla mít ve Web of Science prokazatelnou publikační historii. Citační sítě autorů by měly odpovídat dané kategorii a časopisům srovnatelného zaměření."
+
+msgid "plugins.generic.disco.impactRecommendations.citedEditorialBoard"
+msgstr "Citační analýza redakční rady"
+
+msgid "plugins.generic.disco.impactRecommendations.citedEditorialBoard.description"
+msgstr "Většina členů redakční rady by měla mít ve Web of Science prokazatelnou publikační historii. Citační sítě členů redakční rady by měly odpovídat dané kategorii a časopisům srovnatelného zaměření."
+
+msgid "plugins.generic.disco.impactRecommendations.citedness"
+msgstr "Citovanost článků časopisu"
+
+msgid "plugins.generic.disco.impactRecommendations.citedness.description"
+msgstr "<p>Většina selektivních indexů zahrnuje časopisy s nejvyšším dopadem v daném oboru.</p><p>Srovnávací citační analýza bere v úvahu jak počet citací, které časopis získává, tak zdroje těchto citací. Zohledňuje také stabilitu citační aktivity v čase, která odráží nejen vliv časopisu v konkrétním roce, ale i udržitelnost tohoto vlivu.</p>"
+
+msgid "plugins.generic.disco.impactRecommendations.contentSignificance"
+msgstr "Význam obsahu / akademický přínos pro obor"
+
+msgid "plugins.generic.disco.impactRecommendations.contentSignificance.description"
+msgstr "Obsah časopisu by měl být zajímavý, důležitý a hodnotný pro jeho cílové čtenáře a předplatitele Web of Science. Význam obsahu může dokládat jedinečná specializace, nová perspektiva, regionální zaměření, neobvyklý obsah nebo obsah, který rozšiřuje šíři pokrytí Web of Science. Tyto vlastnosti se nemusí projevovat výhradně v citační aktivitě na úrovni časopisu."
+
+msgid "plugins.generic.disco.impactRecommendations.editorsDiversity"
+msgstr "Rozmanitost geografického původu redakční rady"
+
+msgid "plugins.generic.disco.impactRecommendations.editorsDiversity.description"
+msgstr "Afiliace, geografická rozmanitost a publikační záznamy redaktorů a členů redakční rady musí odpovídat deklarovanému zaměření a publikovanému obsahu časopisu. Velikost a složení redakční rady musí odpovídat objemu a šíři publikační produkce. Náležitě zohledněny budou časopisy, které zaměstnávají profesionální redaktory na plný úvazek."
+
+msgid "plugins.generic.disco.seo"
+msgstr "SEO"
+
+msgid "plugins.generic.disco.seo.description"
+msgstr "SEO (optimalizace pro vyhledávače) je postup optimalizace webu nebo online obsahu s cílem zlepšit jeho viditelnost na stránkách s výsledky vyhledávání (SERP). Cílem je přilákat organickou (neplacenou) návštěvnost tím, že se web bude u relevantních klíčových slov a frází zobrazovat výše. SEO zahrnuje různé strategie, mimo jiné optimalizaci prvků na stránce, jako je obsah, meta tagy a nadpisy, zlepšování technických aspektů, jako je rychlost webu, přizpůsobení mobilním zařízením a strukturovaná data, a získávání kvalitních zpětných odkazů pro posílení autority. Účinné SEO nejen zlepšuje pozice ve vyhledávání, ale i uživatelský zážitek, a přivádí tak angažovanější návštěvníky a zvyšuje potenciál konverzí.<p>Co je SEO – úvod pro začátečníky (anglicky): <a href=\"https://www.elegantthemes.com/blog/marketing/what-is-seo\" target=\"_blank\">https://www.elegantthemes.com/blog/marketing/what-is-seo</a></p>"
+
+msgid "plugins.generic.disco.seo.accurateTitles"
+msgstr "Výstižné názvy stránek"
+
+msgid "plugins.generic.disco.seo.accurateTitles.description"
+msgstr "Názvy stránek by měly přesně vystihovat obsah dokumentů. Jasné názvy odpovídající obsahu zlepšují viditelnost ve výsledcích vyhledávání a zvyšují pravděpodobnost, že na ně uživatelé kliknou."
+
+msgid "plugins.generic.disco.seo.altTextImages"
+msgstr "Alternativní text (ALT) u obrázků"
+
+msgid "plugins.generic.disco.seo.altTextImages.description"
+msgstr "Alternativní text zlepšuje dohledatelnost obrazového obsahu webových stránek a zvyšuje přístupnost pro uživatele textových prohlížečů nebo asistivních technologií."
+
+msgid "plugins.generic.disco.seo.covers"
+msgstr "Obálky čísel / časopisu"
+
+msgid "plugins.generic.disco.seo.covers.description"
+msgstr "Podporují vizuální dohledatelnost tím, že umožňují ve vyhledávačích „vyhledávání podle obrázku“."
+
+msgid "plugins.generic.disco.seo.crosslinks"
+msgstr "Smysluplné vzájemné odkazy"
+
+msgid "plugins.generic.disco.seo.crosslinks.description"
+msgstr "Smysluplné vzájemné odkazy mezi webem časopisu a souvisejícími weby nebo poskytovateli obsahu zvyšují hodnotu pro uživatele a přispívají k lepšímu umístění ve vyhledávačích."
+
+msgid "plugins.generic.disco.seo.h1Title"
+msgstr "Název časopisu v nadpisu H1"
+
+msgid "plugins.generic.disco.seo.h1Title.description"
+msgstr "Použití tagu &lt;h1&gt; pro název časopisu pomáhá vyhledávačům správně interpretovat a indexovat hlavní název stránky."
+
+msgid "plugins.generic.disco.seo.keyTerms"
+msgstr "Klíčové pojmy v meta tazích"
+
+msgid "plugins.generic.disco.seo.keyTerms.description"
+msgstr "Použití výrazů, které cílové publikum běžně zadává při vyhledávání, zlepšuje soulad obsahu s dotazy uživatelů a zvyšuje viditelnost ve vyhledávání."
+
+msgid "plugins.generic.disco.seo.noTextInImages"
+msgstr "Vyhněte se textu v obrázcích"
+
+msgid "plugins.generic.disco.seo.noTextInImages.description"
+msgstr "Relevantní text a odkazy uvedené ve formátu HTML jsou viditelné pro vyhledávače, kdežto text vložený do obrázků nebo obrázkových map nemusí být správně indexován."
+
+msgid "plugins.generic.disco.seo.pageLoadingTime"
+msgstr "Rychlost načítání stránek"
+
+msgid "plugins.generic.disco.seo.pageLoadingTime.description"
+msgstr "Rychlejší načítání stránek výrazně přispívá k optimalizaci pro vyhledávače (SEO), protože zlepšuje uživatelský zážitek, který je klíčovým faktorem hodnoticích algoritmů."
+
+msgid "plugins.generic.disco.seo.readableURLs"
+msgstr "Čitelné URL adresy"
+
+msgid "plugins.generic.disco.seo.readableURLs.description"
+msgstr "URL adresy, které odrážejí strukturu a obsah stránky – namísto číselných nebo nejednoznačných formátů – jsou srozumitelnější pro uživatele i pro vyhledávače."
+
+msgid "plugins.generic.disco.seo.robotsFile"
+msgstr "Soubor robots.txt"
+
+msgid "plugins.generic.disco.seo.robotsFile.description"
+msgstr "Říká prohledávacím robotům vyhledávačů, jak mají web procházet a indexovat. Vytvořte pro vyhledávače soubor robots.txt.<p> <a href=\"https://developers.google.com/search/docs/crawling-indexing/robots/intro\" target=\"_blank\">Úvod do souboru robots.txt.</a></p>"
+
+msgid "plugins.generic.disco.seo.robotsMetadata"
+msgstr "Metadata pro roboty"
+
+msgid "plugins.generic.disco.seo.robotsMetadata.description"
+msgstr "Dobře napsaný meta popis (meta description) podporuje viditelnost ve výsledcích vyhledávání a zvyšuje pravděpodobnost, že na stránku uživatelé kliknou. Popis by měl odpovídat názvu dokumentu a přesně vystihovat jeho obsah."
+
+msgid "plugins.generic.disco.seo.seoCompliant"
+msgstr "Zkontrolujte SEO svých stránek"
+
+msgid "plugins.generic.disco.seo.seoCompliant.description"
+msgstr "<p>SEO můžete zkontrolovat pomocí řady online služeb, například:</p><ul><li><a href=\"https://www.seobility.net/en/seocheck/\" target=\"_blank\">https://www.seobility.net/en/seocheck/</a></li><li><a href=\"https://www.seotesteronline.com/\" target=\"_blank\">https://www.seotesteronline.com/</a></li><li><a href=\"https://seositecheckup.com/\" target=\"_blank\">https://seositecheckup.com/</a></li></ul>"
+
+msgid "plugins.generic.disco.seo.sitemapAvailable"
+msgstr "Mapa stránek (sitemap)"
+
+msgid "plugins.generic.disco.seo.sitemapAvailable.description"
+msgstr "Přidejte mapu stránek a odkažte na ni z úvodní stránky, aby byly procházeny všechny vaše stránky."
+
+msgid "plugins.generic.disco.seo.submitSitemap"
+msgstr "Odešlete mapu stránek do více vyhledávačů"
+
+msgid "plugins.generic.disco.seo.submitSitemap.description"
+msgstr "Vyhledávače jako Google a Bing umožňují odeslat mapu stránek pomocí vlastních nástrojů: <p><a href=\"https://www.elegantthemes.com/blog/marketing/google-search-console\" target=\"_blank\">Více o Google Search Console</a></p><p><a href=\"https://www.elegantthemes.com/blog/wordpress/how-to-submit-your-xml-sitemap-to-bing-webmaster-tools\" target=\"_blank\">Více o Bing Webmaster Tools</a></p>"
+
+msgid "plugins.generic.disco.seo.unhideJScontent"
+msgstr "Zpřístupněte obsah skrytý za JavaScriptem"
+
+msgid "plugins.generic.disco.seo.unhideJScontent.description"
+msgstr "Obsah vykreslovaný pouze pomocí JavaScriptu by měl být zpřístupněn i uživatelským agentům a robotům bez JavaScriptu, a to pomocí HTML elementů &lt;noscript&gt;."
+
+msgid "plugins.generic.disco.results"
+msgstr "Výsledky"
+
+msgid "plugins.generic.disco.ccLicence.autocheck"
+msgstr "Kontrola OJS: Licence CC je nastavena."
+
+msgid "plugins.generic.disco.publishingMode.autocheck"
+msgstr "Kontrola OJS: Režim vydávání je nastaven na otevřený přístup."
+
+msgid "plugins.generic.disco.onlineIssn.autocheck"
+msgstr "Kontrola OJS: Online ISSN je vyplněno."
+
+msgid "plugins.generic.disco.enabled.autocheck"
+msgstr "Kontrola OJS: Časopis je povolen k veřejnému zobrazení na webu"
+
+msgid "plugins.generic.disco.journalTitle.autocheck"
+msgstr "Kontrola OJS: Název časopisu je nastaven."
+
+msgid "plugins.generic.disco.authorGuidelinesDescribed.autocheck"
+msgstr "Kontrola OJS: Pole Pokyny pro autory je vyplněno."
+
+msgid "plugins.generic.disco.editorialBoardPage.autocheck"
+msgstr "Kontrola OJS: Redakční tým je vyplněn."
+
+msgid "plugins.generic.disco.contactName.autocheck"
+msgstr "Kontrola OJS: Jméno kontaktní osoby je nastaveno."
+
+msgid "plugins.generic.disco.contactEmail.autocheck"
+msgstr "Kontrola OJS: Kontaktní e-mail je nastaven."
+
+msgid "plugins.generic.disco.mailingAddress.autocheck"
+msgstr "Kontrola OJS: Poštovní adresa je nastavena."
+
+msgid "plugins.generic.disco.journalPublisherNameAvailable.autocheck"
+msgstr "Kontrola OJS: Název vydavatele je nastaven."
+
+msgid "plugins.generic.disco.dublinCore.autocheck"
+msgstr "Kontrola OJS: Indexovací plugin Dublin Core je povolen."
+
+msgid "plugins.generic.disco.googleSchoolar.autocheck"
+msgstr "Kontrola OJS: Indexovací plugin Google Scholar je povolen."
+
+msgid "plugins.generic.disco.oaiPMHEnabled.autocheck"
+msgstr "Kontrola OJS: OAI-PMH je povoleno."
+
+msgid "plugins.generic.disco.usingDOIs.autocheck"
+msgstr "Kontrola OJS: DOI jsou povolena pro články a je nastaven prefix DOI (Nastavení->Distribuce->DOI)."
+
+msgid "plugins.generic.disco.metadataFormatOpenAIRE.autocheck"
+msgstr "Kontrola OJS: Plugin OpenAIRE Standard je povolen."
+
+msgid "plugins.generic.disco.publisher.autocheck"
+msgstr "Kontrola OJS: Název vydavatele je vyplněn."
+
+msgid "plugins.generic.disco.noRegistrationNeed.autocheck"
+msgstr "Kontrola OJS: Čtenáři se nemusí registrovat"
+
+msgid "plugins.generic.disco.copyrightTerms.autocheck"
+msgstr "Kontrola OJS: Oznámení o copyrightu pro autory je vyplněno."
+
+msgid "plugins.generic.disco.noEmbargoPeriod.autocheck"
+msgstr "Kontrola OJS: V režimu vydávání není nastaveno žádné embargo."
+
+msgid "plugins.generic.disco.plagiarismCheck.autocheck"
+msgstr "Kontrola OJS: Plugin pro detekci plagiátů je povolen."
+
+msgid "plugins.generic.disco.knowledgeBase.base"
+msgstr "BASE"
+
+msgid "plugins.generic.disco.knowledgeBase.base.description"
+msgstr "BASE indexuje metadata všech typů akademicky relevantních zdrojů – „například časopisů, institucionálních repozitářů a digitálních sbírek“ –, které poskytují rozhraní OAI a ke sdílení obsahu využívají protokol OAI-PMH."
+
+msgid "plugins.generic.disco.knowledgeBase.base.application"
+msgstr "Stát se poskytovatelem obsahu"
+
+msgid "plugins.generic.disco.knowledgeBase.ceeol"
+msgstr "CEEOL"
+
+msgid "plugins.generic.disco.knowledgeBase.ceeol.description"
+msgstr "Central and Eastern European Online Library (CEEOL) je repozitář plnotextově indexovaných dokumentů pokrývající humanitní a společenskovědní publikace ze střední a východní Evropy a o ní.<p><strong>Postup zařazení</strong></p><p>Vyplnění online přihlášky a posouzení týmem CEEOL pro podporu vydavatelů.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.ceeol.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.core"
+msgstr "CORE"
+
+msgid "plugins.generic.disco.knowledgeBase.core.description"
+msgstr "CORE (COnnecting REpositories) poskytuje komplexní bibliografickou databázi světové odborné literatury, která shromažďuje a indexuje výzkum z repozitářů a časopisů. Je také největší světovou sbírkou plných textů výzkumných prací v otevřeném přístupu. <p><strong>Postup zařazení</strong></p><p>Automatický sběr ze seznamu agregátorů: <a href=\"https://core.ac.uk/data-providers/?q=&size=10\" target=\"_blank\">https://core.ac.uk/data-providers/?q=&size=10</a><br />Nového poskytovatele dat lze také zaregistrovat vyplněním formuláře: <a target=\"_blank\" href=\"https://core.ac.uk/benefits#join-core\">https://core.ac.uk/benefits#join-core</a></p>"
+
+msgid "plugins.generic.disco.knowledgeBase.core.application"
+msgstr "Připojit se ke CORE jako poskytovatel dat"
+
+msgid "plugins.generic.disco.knowledgeBase.crossref"
+msgstr "Crossref"
+
+msgid "plugins.generic.disco.knowledgeBase.crossref.description"
+msgstr "Crossref je členská organizace s 19 tisíci členy z komerčního i institucionálního publikování. Hlavní službou Crossrefu je propojování citujících a citovaných publikací. Zapojení vydavatelé registrují Crossref DOI a odesílají metadata svých publikací.<p><strong>Postup zařazení</strong></p><p>Pro registraci v Crossrefu je nutné členství. Členství je otevřeno vydavatelům i poskytovatelům služeb.<br />Členové pak mohou svému obsahu přidělovat Crossref DOI. Způsob generování DOI se může u jednotlivých služeb lišit – například automaticky nebo na vyžádání, pro veškerý obsah nebo jen pro určité typy.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.crossref.application"
+msgstr "Stát se členem"
+
+msgid "plugins.generic.disco.knowledgeBase.ebsco"
+msgstr "EBSCO"
+
+msgid "plugins.generic.disco.knowledgeBase.ebsco.description"
+msgstr "EBSCO poskytuje institucím po celém světě výzkumné databáze, elektronické časopisy, e-knihy a nástroje pro správu knihoven. Mezi jeho služby patří EBSCOHost (přístup k plným textům), EBSCO Discovery Service (bibliografické údaje) a další, např. AtoZ. EBSCO spolupracuje především s knihovnami a univerzitami, ale také přímo s vydavateli. EBSCO poskytuje i další služby, např. AtoZ nebo Academic Search Ultimate. Přestože působí převážně pro instituce, jako jsou knihovny a univerzity, spolupracuje EBSCO také přímo s vydavateli časopisů a e-knih.<p><strong>Postup zařazení</strong></p><p>Vydavatelé nejprve kontaktují tým EBSCO Publishers Operation, aby se informovali o podmínkách a průběhu indexace: <a target=\"_blank\" href=\"https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support\">https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support</a>.</p><p>První žádost o indexaci se podává prostřednictvím webového formuláře: <a target=\"_blank\" href=\"https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form\">https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form</a></p>"
+
+msgid "plugins.generic.disco.knowledgeBase.ebsco.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.semanticscholar"
+msgstr "Semantic Scholar"
+
+msgid "plugins.generic.disco.knowledgeBase.semanticscholar.description"
+msgstr "Semantic Scholar poskytuje globální výzkumné komunitě bezplatné vyhledávací a objevovací nástroje založené na umělé inteligenci a otevřené zdroje. Indexuje přes 200 milionů odborných prací získaných z partnerství s vydavateli, od poskytovatelů dat a procházením webu. Funkce umělé inteligence umožňují analýzu abstraktů a citací.<p><strong>Postup zařazení</strong></p><p>Semantic Scholar spolupracuje převážně s velkými vydavateli a repozitáři.<br />Indexace probíhá plně automaticky na základě seznamu akademických vydavatelů, poskytovatelů dat a agregátorů.<br />Autoři mohou požádat o přidání článků podle tohoto návodu: <a target=\"_blank\" href=\"https://www.semanticscholar.org/faq/add-papers-author-page\">https://www.semanticscholar.org/faq/add-papers-author-page</a></p>"
+
+msgid "plugins.generic.disco.knowledgeBase.doaj"
+msgstr "DOAJ"
+
+msgid "plugins.generic.disco.knowledgeBase.doaj.description"
+msgstr "Komunitou spravovaný seznam recenzovaných časopisů v otevřeném přístupu, který udržuje organizace Infrastructure Services for Open Access (IS4OA). DOAJ také umožňuje sběr a zobrazení metadat článků a bezplatnou distribuci metadat časopisů a článků. <p><strong>Postup zařazení</strong></p>Vydavatelé se musí zaregistrovat a vyplnit online přihlášku: <a target=\"_blank\" href=\"https://doaj.org/account/login?redirected=apply\">https://doaj.org/account/login?redirected=apply</a><br />Přijetí vyžaduje splnění souboru redakčních a technických požadavků.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.doaj.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.erihplus"
+msgstr "ERIH+"
+
+msgid "plugins.generic.disco.knowledgeBase.erihplus.description"
+msgstr "ERIH+ je online index kvalitních společenskovědních a humanitních časopisů z celé Evropy, který podporuje otevřenost a osvědčené redakční postupy. Vyznačuje status otevřeného přístupu časopisů a jejich soulad s Plan S. ERIH+ také indexuje články s DOI z databáze Dimensions, která pokrývá přes 140 milionů publikací.<p><strong>Postup zařazení</strong></p><p>Nové časopisy je třeba přihlásit po vytvoření uživatelského účtu: <a target=\"_blank\" href=\"https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action\">https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action</a><br />ERIH+ nebude hodnotit časopisy přihlášené vydavateli, členy redakční rady ani jinými osobami spojenými s časopisem.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.erihplus.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.gotriple"
+msgstr "GoTriple"
+
+msgid "plugins.generic.disco.knowledgeBase.gotriple.description"
+msgstr " Poskytuje přístupový bod pro objevování a opětovné využití výzkumných výstupů relevantních pro společenské a humanitní obory (SSH). <p><strong>Postup zařazení</strong></p><p>Pokud publikace ještě nejsou uloženy v datových zdrojích GoTriple, hlavní možností je zaregistrovat nový datový zdroj prostřednictvím k tomu určeného rozhraní: <a target=\"_blank\" href=\"https://pipeline.gotriple.eu/user/login?destination=/\">https://pipeline.gotriple.eu/user/login?destination=/</a></p>."
+
+msgid "plugins.generic.disco.knowledgeBase.gotriple.application"
+msgstr "Stát se poskytovatelem obsahu"
+
+msgid "plugins.generic.disco.knowledgeBase.gs"
+msgstr "Google Scholar"
+
+msgid "plugins.generic.disco.knowledgeBase.gs.description"
+msgstr "Prohledávatelný bibliografický index, který zobrazuje plné texty a metadata odborné literatury napříč řadou publikačních formátů a oborů.<p><strong>Postup zařazení</strong></p><p>Google Scholar používá k získávání souborů pro výsledky vyhledávání automatizovaný software, tzv. „roboty“ neboli „crawlery“. Web časopisu musí mít takovou strukturu, aby jej bylo možné tímto způsobem „procházet“. Automatičtí roboti musí být schopni najít a stáhnout URL adresy všech článků a také pravidelně aktualizovat jejich obsah z webu časopisu.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.openaire"
+msgstr "OpenAIRE Graph"
+
+msgid "plugins.generic.disco.knowledgeBase.openaire.description"
+msgstr "OpenAIRE Graph je otevřený zdroj, který agreguje soubor vlastností výzkumných dat (metadata, vazby) dostupných v rámci infrastruktury otevřené vědy OpenAIRE pro poskytovatele financí, organizace, výzkumníky, výzkumné komunity a vydavatele. Je zpřístupněn prostřednictvím datových sad publikovaných na Zenodu a lze v něm vyhledávat přes OpenAIRE EXPLORE.<p><strong>Postup zařazení</strong></p><p>Pokud publikace ještě nejsou uloženy v datovém zdroji OpenAIRE (úplný seznam datových zdrojů: <a target=\"_blank\" href=\"https://explore.openaire.eu/search/find/dataproviders\">https://explore.openaire.eu/search/find/dataproviders</a>), hlavní možností je zaregistrovat datový zdroj přes OpenAIRE PROVIDE (<a target=\"_blank\" href=\"https://provide.openaire.eu/\">https://provide.openaire.eu/</a>). Datový zdroj musí odpovídat pokynům OpenAIRE (<a target=\"_blank\" href=\"https://guidelines.openaire.eu/\">https://guidelines.openaire.eu/</a>).</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.openaire.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.openalex"
+msgstr "OpenAlex"
+
+msgid "plugins.generic.disco.knowledgeBase.openalex.description"
+msgstr "Otevřený katalog odborných prací (časopiseckých článků, konferenčních příspěvků, knih a kapitol, datových sad a závěrečných prací), autorů a institucí. Zahrnuje vazby mezi těmito pracemi, které zjišťuje například prostřednictvím časopisů, autorů, institucionálních afiliací, citací, konceptů a poskytovatelů financí.<p><strong>Postup zařazení</strong></p><p>OpenAlex automaticky indexuje nové časopisy a články; záznamy získává především z Crossrefu, ale také z DOAJ a dalších zdrojů."
+
+msgid "plugins.generic.disco.knowledgeBase.pubmed"
+msgstr "PubMed"
+
+msgid "plugins.generic.disco.knowledgeBase.pubmed.description"
+msgstr "PubMed je bezplatný zdroj pro vyhledávání a získávání biomedicínské literatury a literatury z věd o živé přírodě, jehož cílem je zlepšovat zdraví – globální i individuální. Databáze PubMed obsahuje více než 37 milionů citací a abstraktů biomedicínské literatury. Nezahrnuje plné texty časopiseckých článků, často však obsahuje odkazy na plný text, pokud je dostupný z jiných zdrojů, například z webu vydavatele nebo z PubMed Central (PMC).<p><strong>Postup zařazení</strong></p><p>Vyplnění přihlášky pro návrh časopisu po registraci na platformě. (<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/medline/publisherportal/\">https://www.ncbi.nlm.nih.gov/medline/publisherportal/</a>)<br />Aby byly časopisy indexovány, musí úspěšně projít hodnocením vědecké kvality (Scientific Quality Review) i kontrolou technických a indexačních požadavků (Technical and Indexing Requirements Check) (více informací v dokumentaci kritérií: <a target=\"_blank\" href=\"https://www.nlm.nih.gov/medline/medline_how_to_include.html#scientificquality\">https://www.nlm.nih.gov/medline/medline_how_to_include.html#scientificquality</a> .)</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.pubmed.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.scopus"
+msgstr "Scopus"
+
+msgid "plugins.generic.disco.knowledgeBase.scopus.description"
+msgstr "Scopus je abstraktová a citační databáze pokrývající recenzovanou literaturu z věd o živé přírodě, společenských věd, fyzikálních věd a zdravotnických věd. Indexuje knižní řady, časopisy a odborné (oborové) časopisy a umožňuje také vyhledávání patentů prostřednictvím databáze LexisNexis.<p><strong>Postup zařazení</strong></p><p>Formulář pro návrh časopisu pro CSAB (Content Selection and Advisory Board): <a target=\"_blank\" href=\"https://suggestor.step.scopus.com/suggestTitle/step1.cfm\">https://suggestor.step.scopus.com/suggestTitle/step1.cfm</a> a splnění souboru redakčních a technických požadavků.</p>"
+
+msgid "plugins.generic.disco.knowledgeBase.scopus.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.wos"
+msgstr "Web of Science (WoS)"
+
+msgid "plugins.generic.disco.knowledgeBase.wos.description"
+msgstr "Web of Science (WoS) je předplatitelská platforma nabízející přístup k databázím s bibliografickými a citačními údaji z odborných časopisů, sborníků z konferencí a dalších odborných zdrojů napříč obory.<p><strong>Postup zařazení</strong></p><p>Přístup se řídí dvoukrokovým postupem popsaným zde: <a target=\"_blank\" href=\"https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/\">https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/</a><br /> 1. krok: Vytvoření uživatelského účtu s institucionální e-mailovou adresou: <a target=\"_blank\" href=\"https://access.clarivate.com/register?app=wpp&referrer=%2Fwpp%2Fhom\">https://access.clarivate.com/register?app=wpp&referrer=%2Fwpp%2Fhom</a><br />2. krok: Žádost o přístup do vydavatelského portálu (Publisher Portal): <a target=\"_blank\" href=\"https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en_US\">https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en_US</a></p>"
+
+msgid "plugins.generic.disco.knowledgeBase.wos.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.google"
+msgstr "Vyhledávač: Google"
+
+msgid "plugins.generic.disco.knowledgeBase.google.description"
+msgstr "Google používá automatizované systémy hodnocení, které posuzují širokou škálu faktorů a signálů napříč stovkami miliard webových stránek a dalšího obsahu ve vyhledávacím indexu, aby během zlomku sekundy poskytly nejrelevantnější a nejužitečnější výsledky. Tato stránka vysvětluje několik klíčových systémů hodnocení, včetně základních systémů, které řídí obecné výsledky vyhledávání, i systémů určených pro specifické účely hodnocení."
+
+msgid "plugins.generic.disco.knowledgeBase.yahoo"
+msgstr "Vyhledávač: Yahoo! Search"
+
+msgid "plugins.generic.disco.knowledgeBase.yahoo.description"
+msgstr "Yahoo! Search je vyhledávač vlastněný a provozovaný společností Yahoo!, jehož výsledky zajišťuje Microsoft Bing."
+
+msgid "plugins.generic.disco.knowledgeBase.bing"
+msgstr "Vyhledávač: Microsoft Bing"
+
+msgid "plugins.generic.disco.knowledgeBase.bing.description"
+msgstr "Microsoft Bing (známý také jednoduše jako Bing) je vyhledávač společnosti Microsoft, který nabízí vyhledávání na webu, obrázků, videí a map."
+
+msgid "plugins.generic.disco.knowledgeBase.duckduckgo"
+msgstr "Vyhledávač: DuckDuckGo"
+
+msgid "plugins.generic.disco.knowledgeBase.duckduckgo.description"
+msgstr "DuckDuckGo je vyhledávač zaměřený na ochranu soukromí, který nesleduje uživatele a nabízí nezkreslené výsledky vyhledávání. Pochopení jeho přístupu k SEO může pomoci zlepšit viditelnost webu u publika, které dbá na soukromí."
+
+msgid "plugins.generic.disco.knowledgeBase.redalyc"
+msgstr "REDALYC"
+
+msgid "plugins.generic.disco.knowledgeBase.redalyc.description"
+msgstr "Redalyc je indexační systém, který obsahuje časopisy v otevřeném přístupu s odpovídající vědeckou a redakční kvalitou. Po 16 letech, kdy poskytoval viditelnost a podporoval konsolidaci časopisů, nyní zařazuje výhradně časopisy z kterékoli části světa, které sdílejí neziskový model publikování, s cílem zachovat odborný a otevřený charakter vědecké komunikace."
+
+msgid "plugins.generic.disco.knowledgeBase.redalyc.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.knowledgeBase.ddh"
+msgstr "Diamond Discovery Hub"
+
+msgid "plugins.generic.disco.knowledgeBase.ddh.description"
+msgstr "Diamond Discovery Hub (DDH) je jednou ze služeb European Diamond Capacity Hub (EDCH). Jeho cílem je stát se komplexním registrem institucionálně vydávaných a vědci řízených časopisů v otevřeném přístupu bez autorských poplatků v Evropě, navrženým ke zlepšení viditelnosti a dohledatelnosti diamantových OA časopisů."
+
+msgid "plugins.generic.disco.knowledgeBase.ddh.application"
+msgstr "Navrhnout k zařazení"
+
+msgid "plugins.generic.disco.score"
+msgstr "Skóre"
+
+msgid "plugins.generic.disco.results.description"
+msgstr "Tato stránka zobrazuje skóre pro jednotlivé databáze, které vyžadují splnění určitých předpokladů, než se do nich časopis může přihlásit. Tyto předpoklady pak podléhají dalšímu hodnocení. Protože Discoverability Companion je nástroj pro sebehodnocení, nezaručuje posouzení ani indexaci těmito službami – slouží pouze jako vodítko a zdroj informací. Stránka uvádí také další databáze, které sice nemusí mít formální hodnoticí kritéria, ale stojí za to je zvážit."
+
+msgid "plugins.generic.disco.badges"
+msgstr "Odznaky"
+
+msgid "plugins.generic.disco.badges.description"
+msgstr "<p>Odznaky jsou nedílnou součástí pluginu OJS Discoverability Companion (DISCO).</p><p>Discoverability Companion (DISCO) je plugin, který má redaktorům odborných časopisů pomoci zlepšit viditelnost a důvěryhodnost jejich časopisů tím, že je provede technickými a redakčními kritérii, která vyžadují hlavní indexační databáze. Tyto požadavky – často podobné, ale na jednotlivých platformách popsané odlišně – shromažďuje do jednoho přehledného a uživatelsky přívětivého rozhraní. Vyjasněním terminologie a ukázáním společných standardů snižuje DISCO náročnost plnění požadavků a přispívá k lepším výsledkům indexace.</p><p>Nedílnou součástí pluginu je sada odznaků, které se zobrazují v zápatí webu. Tyto odznaky dávají čtenářům i hodnotitelům najevo, že časopis splňuje uznávané standardy kvality, transparentnosti a otevřenosti.</p>"
+
+msgid "plugins.generic.disco.badges.badgesAvailable"
+msgstr "Povolit zobrazení odznaků v zápatí webu."
+
+msgid "plugins.generic.disco.badges.badgesAvailable.description"
+msgstr "Odznaky se zobrazí v zápatí všech stránek časopisu."
+
+msgid "plugins.generic.disco.about.openToAllAuthors"
+msgstr "<h3>Otevřený všem autorům:</h3><p>Časopis {$contextTitle} se zavazuje k otevřenosti a inkluzivitě odborného publikování bez poplatků za čtení i za publikování pro autory. Vítáme příspěvky od všech autorů bez ohledu na jejich institucionální afiliaci, geografickou polohu nebo akademické postavení. Příspěvky musí pouze odpovídat zaměření a rozsahu časopisu a po dokončení recenzního řízení splňovat požadované standardy kvality.</p>"
+
+msgid "plugins.generic.disco.about.communityOwned"
+msgstr "<h3>Ve vlastnictví komunity:</h3><p>Časopis {$contextTitle} je ve vlastnictví instituce {$publisherInstitution}, tj. {$organisationType} instituce/organizace, jejímž posláním je rozvoj výzkumu a vědy. Vlastnická a řídicí struktura časopisu odráží jeho poslání podporovat otevřené a dostupné akademické publikování. Potvrzujeme, že případní komerční poskytovatelé služeb zapojení do našeho provozu se zabývají pouze servisními aspekty vydávání časopisu. Veškeré obsahové aspekty publikování, jako je přijímání příspěvků, recenzní řízení, přijetí k publikaci, periodicita a zaměření časopisu, řídí redaktoři / vlastníci časopisu.</p>"
+
+msgid "plugins.generic.disco.badges.availableContent"
+msgstr "📖 Volně dostupný obsah"
+
+msgid "plugins.generic.disco.badges.availableContent.description"
+msgstr "Články a další obsah časopisu jsou veřejnosti přístupné bez omezení a bez platebních bran."
+
+msgid "plugins.generic.disco.badges.communityOwned"
+msgstr "🌱 Ve vlastnictví komunity"
+
+msgid "plugins.generic.disco.badges.communityOwned.description"
+msgstr "Časopis spravuje a vlastní akademická nebo profesní komunita, nikoli komerční vydavatel."
+
+msgid "plugins.generic.disco.badges.diamondJournal"
+msgstr "💎 Diamantový otevřený přístup"
+
+msgid "plugins.generic.disco.badges.diamondJournal.description"
+msgstr "Aby byl váš časopis diamantovým časopisem v otevřeném přístupu, musí splňovat 6 <a href=\"https://ddh.diamas.org/docs/diamond-journals/\" target=\"_blank\">kritérií diamantového OA</a>. "
+
+msgid "plugins.generic.disco.badges.doiUsed"
+msgstr "🔗 Přidělené DOI"
+
+msgid "plugins.generic.disco.badges.doiUsed.description"
+msgstr "Článkům jsou přidělovány identifikátory digitálních objektů (DOI) pro trvalé odkazování a snadné citování."
+
+msgid "plugins.generic.disco.badges.geographicalDiversity"
+msgstr "🌍 Geografická rozmanitost"
+
+msgid "plugins.generic.disco.badges.geographicalDiversity.description"
+msgstr "Redakční rada a autoři pocházejí z různých oblastí světa, což podporuje inkluzivitu a mezinárodní spolupráci."
+
+msgid "plugins.generic.disco.badges.noApc"
+msgstr "🚫 Bez poplatků pro autory"
+
+msgid "plugins.generic.disco.badges.noApc.description"
+msgstr "Autoři nemusí za publikování svých článků v časopise platit žádné poplatky."
+
+msgid "plugins.generic.disco.badges.openToAllAuthors"
+msgstr "✍️ Otevřený všem autorům"
+
+msgid "plugins.generic.disco.badges.openToAllAuthors.description"
+msgstr "Časopis vítá příspěvky od všech autorů bez ohledu na zemi, institucionální afiliaci nebo postavení."
+
+msgid "plugins.generic.disco.badges.plagiarismCheckImplemented"
+msgstr "🔍 Zavedená kontrola plagiátorství"
+
+msgid "plugins.generic.disco.badges.plagiarismCheckImplemented.description"
+msgstr "Časopis používá nástroje pro odhalování plagiátorství a zajišťuje původnost publikovaných článků."
+
+msgid "plugins.generic.disco.badges.regularPeriodicity"
+msgstr "📅 Pravidelné vydávání"
+
+msgid "plugins.generic.disco.badges.regularPeriodicity.description"
+msgstr "Časopis vychází podle pravidelného a předvídatelného harmonogramu, což zvyšuje jeho důvěryhodnost."
+
+msgid "plugins.generic.disco.badges.scholarlyJournal"
+msgstr "🎓 Odborný časopis"
+
+msgid "plugins.generic.disco.badges.scholarlyJournal.description"
+msgstr "Časopis splňuje standardy akademického publikování a přispívá k rozvoji svých oborů."
+
+msgid "plugins.generic.disco.requirements"
+msgstr "Požadavky"
+
+msgid "plugins.generic.disco.serviceDescription"
+msgstr "Popis služby"
